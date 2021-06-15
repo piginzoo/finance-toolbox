@@ -63,6 +63,6 @@ $R_m$是市场的平均收益率，可以用股指近似，但是还有很多诸
 - [中央财经大学-投资学（国家级精品课）](https://www.bilibili.com/video/BV1C4411X7zU?p=78&t=41)，刘志东老师讲的部分最有用。
 - [清华大学 - 投资学](https://www.xuetangx.com/learn/thu02011003130/thu02011003130/5894332/video/9307292)，清华大学的王茵田教授的投资客讲解，也非常通俗易懂。
 - [李锦堂 - 我如何分配我的收入](https://www.bilibili.com/video/BV17b41187PA)，我很喜欢的马来清华小哥，他对标普S&P500的讲解通俗易懂。
-- [徐高 -《金融经济学二十五讲》](https://www.bilibili.com/video/BV1Bx411d714)，徐高的金融学，讲的很透彻，强烈记忆。
+- [徐高 -《金融经济学二十五讲》](https://www.bilibili.com/video/BV1Bx411d714)，徐高的金融学，讲的很透彻，强烈推荐。
 - [徐高 -《宏观经济学二十五讲：中国视角》](https://www.bilibili.com/video/BV1oE411Z7TU/)，徐高的宏观经济学，讲的很不错。
 - [林毅夫 - 中国经济专题北京大学 ](https://www.bilibili.com/video/BV1ob411J7WC/)，了解中国经济，还要听中国经济学家的讲解。

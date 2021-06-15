@@ -1,3 +1,6 @@
 {
-    "plugins": ["mathjax-pro"]
+    "plugins": [
+    	"mathjax-pro",
+    	"intopic-toc"
+    ]
 }
