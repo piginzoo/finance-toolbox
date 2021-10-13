@@ -116,9 +116,14 @@ $$X=\frac{Y/m}{Z/n}=\frac{nY}{mZ}$$
 
 
 
-### Shapiro-Wilk检验
+### 正态检验
 
 看一个序列是不是符合正态分布。话说，正态检验太重要了，如果一个时间序列不符合正态分布，那后面的检验都没有意义了。
+
+常见的有SW检验（样本<50）和KS检验（样本>50），[示例代码](https://github.com/piginzoo/fund_analysis/blob/master/test/test_stat.py)。
+
+#### SW:Shapiro-Wilk检验（小数据<50）
+
 
 Shapiro-Wilk检验和Lilliefor检验都是进行大小排序后得到的，所以易受异常值的影响。
 
@@ -127,7 +132,14 @@ Shapiro-Wilk检验只适用于小样本场合（3≤n≤50）
 $${\left(\sum_{i=1}^n a_i x_{(i)}\right)^2 \over \sum_{i=1}^n (x_i-\overline{x})^2}$$
 
 
-[参]：[1](https://zhuanlan.zhihu.com/p/26539771),[2](https://www.jianshu.com/p/e202069489a6),[3](https://www.biaodianfu.com/python-normal-distribution-test.html),[4](https://zhuanlan.zhihu.com/p/26477641)
+[参]：[1](https://zhuanlan.zhihu.com/p/26539771),[2](https://www.jianshu.com/p/e202069489a6),[3](https://www.biaodianfu.com/python-normal-distribution-test.html),[4](https://zhuanlan.zhihu.com/p/26477641),[5](https://www.medsci.cn/article/show_article.do?id=0805180e5132)
+
+#### KS:Kolmogorov-Smirnov检验（小数据>50）
+
+柯尔莫戈洛夫-斯米诺夫检验（Kolmogorov-Smirnov test），简称K-S检验
+
+K-S检验适合用于大数据样本的正态性检验，当样本的数据量超过50行时，它被认为是一个大样本，我们倾向于看K-S检验的分析结果得出结论。
+
 
 
 ### T检验

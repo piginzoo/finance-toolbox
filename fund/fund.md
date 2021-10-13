@@ -100,4 +100,9 @@
 
 从创业板挑了100只组成的基金，实际表现不好，主要是暴跌暴涨，风险太大导致的。
 
-
+## 附录
+- [中国公募发展简史及各类评价模型](https://blog.csdn.net/The_Time_Runner/article/details/100735180)
+- [平安基金研究基金深度报告：公募基金经理的量化分析研究](https://finance.sina.com.cn/stock/stockzmt/2020-08-27/doc-iivhvpwy3428581.shtml)
+- [清华五道口金融学院：股票型基金经理择时选股能力研究](https://www.pbcsf.tsinghua.edu.cn/portal/article/index/id/1805.html)
+- [清华五道口金融学院：2021年中国公募基金研究报告](https://item.jd.com/10032017242965.html)
+- [中金报告：中国股市生态正发生四大结构性变化](https://news.stcn.com/sd/202012/t20201224_2662892.html)
