@@ -2,5 +2,8 @@
     "plugins": [
     	"mathjax-pro",
     	"intopic-toc"
-    ]
+    ],
+    "styles": {
+		"website": "styles/website.css"
+	}
 }
