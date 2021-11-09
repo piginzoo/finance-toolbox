@@ -528,12 +528,12 @@ APT的三个基本假设：
 - 完善的证券市场不允许任何套利机会存在
 
 
-## 无风险套利
+## 无风险套利 APT
 
 APT的基本假设
 - 市场是有效的、充分竞争的、无摩擦的
 - 投资者是不满足的，只要有套利机会，就会一直继续下去
-- 任何资产收益满足：$$\tilde{r}_i = \bar{r}_i + \beta_{i1} \tilde{F}_1+\beta_{i2} \tilde{F}_2+...+\beta_{ik} \tilde{F}_k+ei$$，其中，$$\bar{r}_i=E(\tilde{r}_i)$$，而且，$$E(\tilde{F)=0$$因子期望为0,这里$$~$$表示的是一个时间序列，是个随机变量。
+- 任何资产收益满足：$$\tilde{r}_i = \bar{r}_i + \beta_{i1} \tilde{F}_1+\beta_{i2} \tilde{F}_2+...+\beta_{ik} \tilde{F}_k+ei$$，其中，$$\bar{r}_i=E(\tilde{r}_i)$$，而且，$$E(\tilde{F})=0$$因子期望为0,这里$$~$$表示的是一个时间序列，是个随机变量。
 - 不同资产的$$e_i$$完全无关，且期望为0：$$E(e_i)=0,Cov(e_i,e_j)=0$$
 - 市场上的资产远远大于因子数
 
@@ -541,6 +541,187 @@ APT的基本假设
 
 老师讲了一个概念，叫**“惊奇”**，数学上表达为$$y - E(y)$$，所以，这里，惊奇就体现在这些因子带来的“惊奇”之和再加上残差$$\epsilon$$。
 
+### 单因子下的APT
+
+首先我们设有2个资产，$$\tilde{r}_{i}$$是时序的随机变量，是资产的各个时间点的收益率；$$\bar{r}_{i}$$表示的是资产的期望回报$$E(r_i)$$，简化的表示；$$\beta_i$$是对因子的loading，而$$\tilde{f}$$就是因子，他也是一个时间序列。
+
+现在我们假设有2个资产：
+
+$$
+\begin{array}{l}
+\tilde{r}_{i}=\bar{r}_{i}+\beta_{i} \tilde{f} \\
+\tilde{r}_{j}=\bar{r}_{j}+\beta_{j} \tilde{f}
+\end{array}
+$$
+
+这里有一些假设和简化：
+- 因子均值为0，E(\tilde{f}) = 0，实际处理的时候，会对因子做均一化处理（即减去均值）
+- 忽略了个体风险$$\tilde{\varepsilon}_i = 0$$，TODO
+
+这个式子表示，就是一种假设，就是这么设定的，就是这样的形式，你说着换个形式怎么来的，就是人为规定的。
+
+它表示，一个资产的收益，是围绕它的期望波动，波动的原因是由因子们引起的，你说因子们是啥？其实给出，只是告诉你，跟“某些”因子有关，至于是那些因子，你可以自己去探索和假设，无所谓，只要自洽就可以。
+
+因子，其实，在现实中，就是影响资产的风险，比如GPD、税率、市场指数等，她们就是会影响这个资产的风险，而且是系统风险（啥叫系统风险，就是这个风险谁都影响，各种资产都影响），这些风险，可是波动的，你这个资产，随着这些波动的比例，就是对应的$$\beta$$，也就是因子的loading。
+
+好，我现在想这些因子（风险）消除掉，那咋办？这个$$\beta$$肯定是个常数啦（每种资产对因子的波动是个固定的值），那我只有通过组合资产i和资产j，来实现了。如何做呢？
+
+我构建资产组合：$$\tilde{r}_{p}=w \tilde{r}_i + (1-w) w \tilde{r}_j$$,
+
+这样可以推出$$=[w\tilde{r}_i+(1-w)\tilde{r}_j]+[w\beta_i+(1-w)\beta_j]\tilde{f}$$
+
+现在我想消除风险（因子），对比？那我就让风险（因子）$$\tilde{f}$$前面的系数$$\beta_p$$为0，不就成了么！
+
+$$w_0 \beta_i + (1-w_0) \beta_j = 0$$
+
+这样，我们解出：
+
+$$w_0 = \frac{\beta_j}{\beta_j - \beta_i}$$
+
+我们把权重$$w_0$$带回到上面的组合收益的式子，这个$$w_0$$下，组合的因子$$\tilde{f}$$的系数搞成了0，就只剩组合的预期收益了：
+
+$$
+\tilde{r}_{p_{0}}=w_{0} \tilde{r}_{i}+\left(1-w_{0}\right) \tilde{r}_{j}=\frac{\beta_{j}}{\beta_{j}-\beta_{i}} \bar{r}_{i}+\left(1-\frac{\beta_{j}}{\beta_{j}-\beta_{i}}\right) \bar{r}_{j}=\frac{\beta_{j} \bar{r}_{i}-\beta_{i} \bar{r}_{j}}{\beta_{j}-\beta_{i}}
+$$
+
+如果市场上没有啥套利机会，那这个值也只能是市场无风险收益$$r_f$$（如果有套利机会，我们肯定会考虑买入更多，或者卖出了），所以：
+
+$$
+\frac{\beta_{j} \bar{r}_{i}-\beta_{i} \bar{r}_{j}}{\beta_{j}-\beta_{i}}=r_{f} 
+$$
+
+所以，可以推出：
+
+$$
+\quad \Rightarrow \quad \frac{\bar{r}_{i}-r_{f}}{\beta_{i}}=\frac{\bar{r}_{j}-r_{f}}{\beta_{j}}
+$$
+
+这个等式两边的量（她们相等，对i资产、j资产一样的）是一个常量，定义成一个常数$$\lambda$$：
+
+$$
+\lambda \triangleq \frac{\bar{r}_{i}-r_{f}}{\beta_{i}}=\frac{\bar{r}_{j}-r_{f}}{\beta_{j}}
+$$
+
+根据这个式子，就可以推出，任何一个资产的收益$$\bar{r}_i$$，都满足：
+
+$$\bar{r}_i = r_f + \beta_i \lambda$$
+
+徐高老师的教程上说，这个$$\lambda$$还未知，还需再找个方法求出，不过，在我看来，后面求$$\lambda$$的过程，只是对$$\lambda$$的另外一种理解而已。
+
+它的求法，也很简单，就是之前为了消除组合资产的因子$$\tilde{f}$$对资产收益的影响，而使其loading为0，现在呢，我们换个思路，使其为1，你说为何要为1，其实，就是为了求出$$\lambda$$的另外一种表示。
+
+$$
+w_{1} \beta_{i}+\left(1-w_{1}\right) \beta_{j}=1 \quad \Rightarrow \quad w_{1}=\frac{1-\beta_{j}}{\beta_{i}-\beta_{j}}
+$$
+
+把$$w_1$$带回到组合权重的式子：$$=[w\tilde{r}_i+(1-w)\tilde{r}_j]+[w\beta_i+(1-w)\beta_j]\tilde{f}$$中，
+
+$$
+\begin{aligned}
+\tilde{r}_{p_{1}} &=\left[\frac{1-\beta_{j}}{\beta_{i}-\beta_{j}} \bar{r}_{i}+\left(1-\frac{1-\beta_{j}}{\beta_{i}-\beta_{j}}\right) \bar{r}_{j}\right]+\tilde{f} \\
+&=\left[\frac{1-\beta_{j}}{\beta_{i}-\beta_{j}} \bar{r}_{i}+\frac{\beta_{i}-1}{\beta_{i}-\beta_{j}} \bar{r}_{j}\right]+\tilde{f} \\
+&=\frac{\bar{r}_{i}-\beta_{j} \bar{r}_{i}+\beta_{i} \bar{r}_{j}-\bar{r}_{j}}{\beta_{i}-\beta_{j}} \tilde{f} \\
+&=\frac{\beta_{i} \bar{r}_{j}-\beta_{j} \bar{r}_{i}}{\beta_{i}-\beta_{j}}+\frac{\bar{r}_{i}-\bar{r}_{j}}{\beta_{i}-\beta_{j}} \tilde{f} \\
+&=r_{f}+\lambda+\tilde{f}
+\end{aligned}
+$$
+
+然后，我们对等式两边去期望：
+
+$$\bar{r}_{p1} = r_f + \lambda$$，其中$$E(\tilde{f})=0$$，这个是前面的假设，如果不为0，可以先减去均值获得。
+
+所以，$$\lambda = \bar{r}_{p1} - r_f$$
+
+回顾一下这个$$\lambda$$，我们是通过使组合的那个因子$$\tilde{f}$$风险暴露因子为1，推导出来的，这个$$\lambda$$也称作**因子溢价**。这个时候，资产1和资产2的组合，也就是因子$$\tilde{f}$$风险暴露系数为1的组合$$\bar{r}_{p1}$$，叫做一个特殊的名字，叫**因子组合（factor portfolio）**（他应该是一个常数，为什么呢？因为$$r_f$$是常数，前面提过$$\lambda$$也是一个常数，那她们俩个相加，得到$$\bar{r}_{p1}$$也应该是一个常数）。
+
+另外，前面我们推导出：$$\bar{r}_i = \beta_i \lambda$$，把求出的$$\lambda$$带入后，我们可以得到：
+
+$$\bar{r}_i = r_f + \beta_i (\bar{r}_{p1} - r_f)$$
+
+这里，不太好理解的是，$$\bar{r}_{p1} $$，它是组合的时候，使得风险因子的权重为1的时候的得到的组合收益，他应该是一个常数，前面已经提到了。用它减去无风险利率$$\bar{r}_{p1} - r_f$$，徐高管他叫，这个因子对应的“风险溢价”，我们再回归一下：
+
+$$\bar{r}_i = r_f + \beta_i \lambda = r_f + \beta_i (\bar{r}_{p1} - r_f)$$
+
+$$\lambda$$就是$$\bar{r}_{p1} - r_f$$，就是这个对应的这个因子的$$\tilde{f}$$的风险溢价，你看到$$\tilde{f}$$了，是因为这里都取期望了，但是你别忘了它，它才是背后的影响因素。
+
+后面对因子的时候，每个因子都会对应自己的一个$$\lambda_i$$，也就是$$\bar{r}_{p1i} - r_f$$，$$\bar{r}_{p1i}$$就是，某个因子，它的系数为1，其他系数都为0的时候，得到的那个组合的收益率的期望。这里一个因子的时候还好理解，多了以后，就容易晕掉。
+
+### 多因子下的APT
+
+多因子下，也是，强行假设，资产的收益率符合下面这样的一个多因子模型：
+
+$$\tilde{r}_i = \bar{r}_i + \beta_{i1} \tilde{f}_1+\beta_{i2} \tilde{f}_2+...+\beta_{ik} \tilde{f}_k+\tilde{\varepsilon}_i$$
+
+其中：
+- $$\bar{r}_i=E(\tilde{r}_i)$$，
+- $$E(\tilde{f)=0$$因子期望为0
+- 不同资产的$$e_i$$完全无关，且期望为0：$$E(e_i)=0,Cov(e_i,e_j)=0$$
+- 市场上的资产远远大于因子数
+
+这里$$~$$表示的是一个时间序列，是个随机变量。
+
+注意！这个多因子模型，是有些异样的 ，他的截距项是一个期望形式，且，要求因子的均值等于0，这些都是很强的一些假设，为什么？？？在实际使用ATP的过程中，也需要把因子均值归一化，使其$$E(e_i)=0,Cov(e_i,e_j)=0$$。
+
+$$
+\tilde{r}_{i}=\bar{r}_{i}+\sum_{k=1}^{K} \beta_{i, k} \tilde{f}_{k}+\tilde{\varepsilon}_{i}
+$$
+
+好，现在我们构建一个组合资产$$p$$，一共有N中，她们的权重分别是$$w_i$$，且，$$\sum_i w_i = 1$$。这样，使用每个资产都被多因子表示，她们的组合$$p$$，就可以被如下的一个多因子表示：
+
+$$
+\tilde{r}_{p}=\sum_{i=1}^{N} w_{i} \tilde{r}_{i}=\sum_{i=1}^{N} w_{i} \bar{r}_{i}+\left(\sum_{i=1}^{N} w_{i} \beta_{i, 1}\right) \tilde{f}_{1}+\cdots+\left(\sum_{i=1}^{N} w_{i} \beta_{i, K}\right) \tilde{f}_{K}+\sum_{i=1}^{N} w_{i} \tilde{\varepsilon}_{i}
+$$
+
+沿袭前面两种资产单因子的推导思路，我们通过调节各个因子前面的权重，使得所有的因子前面的系数都为0，即$$\left(\sum_{i=1}^{N} w_{i} \beta_{i, K}\right) \tilde{f}_{K}$$的系数都为0：
+
+$$
+\left\{\begin{array}{c}
+\sum_{i=1}^{N} w_{i} \beta_{i, 1}=0 \\
+\vdots \\
+\sum_{i=1}^{N} w_{i} \beta_{i, K}=0
+\end{array}\right.
+$$
+
+解这个方程，由于N>k，所以方程有多个解，得到一组解$$(w_1,w_2,...,w_N)$$，使得：
+
+$$
+\tilde{r}_{p 0}=\sum_{i=1}^{N} w_{i} \bar{r}_{i}+\sum_{i=1}^{N} w_{i} \tilde{\varepsilon}_{i}
+$$
+
+恩，所有的K个因子$$\tilde{f}_j$$的影响都被消除了，只剩下它本来期望值和残差项了。
+
+现在，我们考察一下，这个组合的方差，前面一项就是个常数，所以方差就体现在后一项上，所以，整个资产组合p的方差，就是每个资产的方差$$\sigma^2_{\varepsilon}$$的一个组合：
+
+$$
+\sigma^{2}\left(\tilde{r}_{p 0}\right)
+= w_{1}^{2} \sigma_{\varepsilon_1}^{2} +w_{2}^{2} \sigma_{\varepsilon_2}^{2} +\cdots+w_{N}^{2} \sigma_{\varepsilon}^{2}
+=\left(w_{1}^{2}+w_{2}^{2}+\cdots+w_{N}^{2}\right) \sigma_{\varepsilon}^{2}
+$$
+
+当N足够大的时候，每个权重就大概为$$1/N$$，
+
+$$\sigma^{2}\left(\tilde{r}_{p 0}\right) = \left(\frac{1}{N}\right)^{2} \times N \times \sigma_{\varepsilon}^{2}=\frac{\sigma_{\varepsilon}^{2}}{N}
+$$
+
+当$$N \rightarrow \infty$$的时候，$$\sigma^{2}\left(\tilde{r}_{p 0}\right) \rightarrow 0 $$。
+
+并且，这个时候如果市场上不存在套利机会的话，组合资产$$\tilde{r}_{p 0}$$就应该为无风险利率：
+
+$$
+\tilde{r}_{p 0} \approx \sum_{i=1}^{N} w_{i} \bar{r}_{i}=r_{f}
+$$
+
+之前，我们曾经（2种资产1个因子）证明过，
+
+\bar{r}_i = r_f + \beta_i \lambda = r_f + \beta_i (\bar{r}_{p1} - r_f)
+
+同样，可以证明（这里书上也没有给出详细推导，其实，就是通过调节N个资产的权重$$w_i$$，是的所求的那个特定的因子$$\tilde{f}_i$$前面的权重为1，其他的因子$$\tilde{f}_i$$前面的权重即$$\left(\sum_{i=1}^{N} w_{i} \beta_{i, K}\right) \tilde{f}_{K}$$为0，这样，就可以求出$$\lambda_i$$。
+
+这样，资产的期望收益率$$\bar{r}_{i}$$，可以表示为：
+
+$$
+\bar{r}_{i}=r_{f}+\sum_{k=1}^{K} \beta_{i, k} \lambda_{k}
+$$
 
 
 ## Fama四因子
