@@ -1,9 +1,24 @@
 {
     "plugins": [
     	"mathjax-pro",
-    	"intopic-toc"
+    	"intopic-toc",
+    	"back-to-top-button"
     ],
     "styles": {
 		"website": "styles/website.css"
+	},
+	"pluginsConfig": {
+	    "theme-default": {
+	        "showLevel": true
+	    },
+	    "intopic-toc": {
+			"label": "章节目录",
+			"selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6",
+			"mode": "nested",
+			"maxDepth": 6,
+			"isCollapsed": true,
+			"isScrollspyActive": true,
+			"visible": true
+	    }
 	}
 }
