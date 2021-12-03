@@ -1,5 +1,6 @@
 {
     "plugins": [
+    	"-lunr",
     	"mathjax-pro",
     	"intopic-toc",
     	"back-to-top-button"
@@ -8,6 +9,9 @@
 		"website": "styles/website.css"
 	},
 	"pluginsConfig": {
+		"lunr": {
+            "maxIndexSize": 10000000000000000
+        },
 	    "theme-default": {
 	        "showLevel": true
 	    },
