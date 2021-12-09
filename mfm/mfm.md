@@ -2,6 +2,21 @@
 
 多因子模型是量化的一个核心概念，
 
+# 基本概念
+
+因子、因子收益率、因子暴露
+
+# 因子挖掘流程
+
+# 第一个例子
+
+# 因子开发平台
+
+## 在线平台
+
+## 开源项目
+
+
 
 # 参考
 
@@ -28,6 +43,7 @@
 - [量化系列文章目录](https://blog.csdn.net/qq_43382509/article/details/103021416)，非常棒的一个索引文章，涉及到很多内容。
 - [QUANTAXIS，一个非常棒的完整的量化策略开源框架](https://doc.yutiansut.com/)
 - [多因子模型的步骤梳理（以打分法为例）](https://www.shangmayuan.com/a/118d3cb632654637b7688a3a.html)
+- [因子的评价体系和IC、IR](https://zhuanlan.zhihu.com/p/104503303)
 - [追寻因子的足迹：分类、构造与检验](https://www.zybuluo.com/1007477689/note/1687530)
 - [CSDN小白的量化实战讲解](https://blog.csdn.net/weixin_46274168/category_10967506.html)
 - [知乎 '文兄':【多因子模型】Barra模型讲解（1）](https://zhuanlan.zhihu.com/p/27158854)

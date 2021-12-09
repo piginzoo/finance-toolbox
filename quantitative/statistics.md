@@ -28,7 +28,7 @@
 * [方差分析](quantitative/statistics/var-analysis.md)
 * [一元回归](quantitative/statistics/simple-regression.md)
 * [多元回归](quantitative/statistics/multiple-regression.md)
-
+* [ARMA模型](quantitative/statistics/arma.md)
 
 # 参考
 
