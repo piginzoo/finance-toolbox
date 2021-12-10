@@ -64,4 +64,11 @@
 - [【国君策略】收益、风险、因子：大类资产配置框架与变迁](http://finance.eastmoney.com/a/201901161027775717.html)
 - [（万字干货转载）量化投资的方法论](https://zhuanlan.zhihu.com/p/24425050)
 - [万矿2018年末巨献——全球量化嘉年华（线上）](https://www.windquant.com/qntcloud/article?c54dfb26-f5d6-4566-8b04-aad6f1f3254e)
+- [因子评估全流程详解](https://blog.csdn.net/hzp123123/article/details/105132189)
+- [交易策略 单因子测试框架分享](https://bbs.pinggu.org/thread-6947014-1-1.html)
+- [多因子基础及流程学习](https://www.joinquant.com/view/community/detail/ae7a9d66145d20732146caef58e4fc95)
+- [多因子模型建立方法](https://www.jianshu.com/p/d51e1881a50e)
+- [【因子投资笔记01】多因子模型体系总结](https://zhuanlan.zhihu.com/p/280711589)
+- [多因子模型的步骤梳理（以打分法为例）](https://www.shangmayuan.com/a/118d3cb632654637b7688a3a.html)
+- [追寻因子的足迹：分类、构造与检验](https://www.zybuluo.com/1007477689/note/1687530)
 
