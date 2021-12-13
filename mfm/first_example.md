@@ -3,6 +3,20 @@
 - [在优矿的策略代码](https://uqer.datayes.com/v3/community/share/61b170f3d6558d0110442baa)
 - [Github代码](https://github.com/piginzoo/sandbox/blob/v1/quant/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BE%8B%E5%AD%90.py)
 
+
+![](https://resource.shangmayuan.com/droxy-blog/2019/12/04/14f114fb402c43da815ffa76e2a72a15-2.png)
+
+![](https://pic.jg.com.cn/img/pinggu/e07ed41db868747470733a2f2f706963342e7a68696d672e636f6d2f38302f76322d30613635393764656137386337336330393434643963303566663839306463375f68642e6a7067d1f544d5d1.jpg)
+
+上来先提纲挈领地把各个部分说清楚：
+
+对因子，要验证他的3个性质：
+- 有效性：考察因子是否能够得到持续、稳定的alpha收益，用**IC法**，看当期因子暴露和下期股票收益的相关性，一般用Spearman；也可以用**回归法**，T期因子暴露与T+1的股票收益率回归，回归系数为T期的因子收益率，然后考察回归系数的显著性，如果不显著，说明没收益啊。
+- 单调性：用**分层法**回测，按照因子大小对股票排序，将股票池为N个组合，计算分组累计收益图，看因子单调递增、递减关系。
+- 稳定性：
+
+参考：[1](https://www.shangmayuan.com/a/118d3cb632654637b7688a3a.html)，[2](https://bbs.pinggu.org/thread-6947014-1-1.html)
+
 ## 确定CLV因子
 
 clv: close location value, ( (close-day_low) - (day_high - close) ) / (day_high - day_low)
@@ -67,6 +81,38 @@ $$
 看，我们这个例子里，就是用市值因子（MVfactor_std，有个_std后缀是因为做了标准化了），去线性表示CLV，然后，我们留下残差作为新的因子的暴露值（CLVneutralizedfactor）。
 
 这个玩意，就作为将来用作下一步的因子暴露值啦。
+
+## 看因子和股票的相关性：IC
+
+```
+    corr = pd.DataFrame(neutralized_factor_expose)
+    ret = pd.DataFrame(return_5_days)
+    corr.columns = ['corr']
+    ret.columns = ['ret']
+    corr['ret'] = ret['ret']
+	ic, p_value = st.spearmanr(corr['corr'], corr['ret'])  # 计算秩相关系数 Rank_IC
+```
+要看这个因子暴露，和，股票的收益之间的相关性。
+
+用的是[spearman相关](https://www.cnblogs.com/zhangchaoyang/articles/2631907.html)，而不是pearson（皮尔逊），两者区别是，pearson直接用2个序列算相关性，而spearman用的是他们每个数在排序的序号来算相关。
+
+这个算完后，看看这个IC值的绝对值的均值，然后还要看平稳性？？？
+
+## 看因子的收益率
+
+```
+for d in unidate:
+    tempdata = combineMatrix1.loc[combineMatrix1['trade_date'] == d, :]
+    tempdata = tempdata.dropna()
+    model = sm.OLS(np.array(tempdata.FiveDayfwdRtn),np.array(tempdata.CLV))
+    results = model.fit()
+    CLVFactorRtn.loc[d, 'CLVfactorRtn'] = results.params[0]
+    CLVFactorRtn.loc[d, 't_values'] = results.tvalues[0]
+```
+
+用回归法，来计算**因子收益率**，终于可以算出因子的收益率了，每天算一个收益率出来，每天噢！
+
+然后可以看它的累计收益率了。
 
 
 # 参考
