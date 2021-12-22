@@ -4,9 +4,9 @@ description: 把自己金融理财中的知识都汇集到这里
 
 # 我的金融工具箱
 
-我的金融知识库。
-
 这里我会记录我的各种学习内容，汇集成册，编纂成书，持久更新...
+
+可以访问[https://book.piginzoo.com](https://book.piginzoo.com)，访问此书的Online电子版！
 
 # 常用参考
 
