@@ -1,5 +1,7 @@
 # 时序分析
 
+![](/images/20211225/1640402180647.jpg)
+
 啥是平稳序列？
 
 基本上在某个固定值上下波动，无趋势，无规律，随机的。定义上“平稳”指固定时间和位置的概率分布与所有时间和位置的概率分布相同的随机过程。其数学期望和方差这些参数也不随时间和位置变化。
@@ -118,9 +120,9 @@ $$z = \underset{k \in \{1...k\}}{\mathrm{argmax}}\, f(x)$$
 
 知识点：
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65b43181-9164-45a3-b612-3f843897a5d9/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c69a3fc-ee0b-414e-a124-d2c922413824/Untitled.png)
+![](/images/20211225/1640402438617.jpg)
+
 
 ### 自相关性
 

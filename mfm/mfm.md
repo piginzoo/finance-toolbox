@@ -29,6 +29,7 @@
 
 - [量化金融网课 - 多因子模型](https://www.bilibili.com/video/BV1J7411F7ZX)，孙见老师的讲解视频，很清晰。
 - [Alpha策略-因子选股](https://www.bilibili.com/video/BV1wE41147V7?p=11)，有用学院的培训视频，讲的很不错，可惜整套课太贵了，2480，有用的就多因子这2节。
+- [国信证券邀请复旦大学的陈学彬教授讲的7节量化交易课](https://www.bilibili.com/video/BV1VZ4y1M7PB?p=5)，深入浅出，挺好的。
 - [多因子模型 量化套利定价理论APT详解](https://www.bilibili.com/video/BV1Xr4y1y7zT)，赛科思学做的讲座，简短适合入门。
 - [WQFA量化投资线上沙龙系列](https://www.windquant.com/qntcloud/article?5f280c44-6935-466f-9447-e2ef71d4744d)
 
