@@ -133,7 +133,7 @@
 
 $$
 \begin{gathered}
-\Delta \mathrm{C}=\frac{\partial \mathrm{C}}{\partial \mathrm{S}} \mathrm{dS}+\frac{1}{2} \frac{\partial^{2} \mathrm{C}}{\partial \mathrm{S}^{2}} \mathrm{<data></data>} \mathrm{S}^{2}+\frac{\partial \mathrm{C}}{\partial \sigma} \mathrm{d} \sigma+\frac{\partial \mathrm{C}}{\sigma \mathrm{T}} \mathrm{dT} \\
+\Delta \mathrm{C}=\frac{\partial \mathrm{C}}{\partial \mathrm{S}} \mathrm{dS}+\frac{1}{2} \frac{\partial^{2} \mathrm{C}}{\partial \mathrm{S}^{2}} \mathrm{d} \mathrm{S}^{2}+\frac{\partial \mathrm{C}}{\partial \sigma} \mathrm{d} \sigma+\frac{\partial \mathrm{C}}{\sigma \mathrm{T}} \mathrm{dT} \\
 \Delta \mathrm{C}=\delta_{\mathrm{c}} * \Delta \mathrm{S}+\frac{1}{2} * \Gamma_{\mathrm{c}} *(\Delta \mathrm{S})^{2}+\theta_{\mathrm{c}} * \Delta \mathrm{T}+\mathrm{V}_{\mathrm{c}} * \Delta \sigma
 \end{gathered}
 $$
