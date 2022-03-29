@@ -16,5 +16,5 @@
 	 	* [一元回归](quantitative/statistics/simple-regression.md)
 	 	* [多元回归](quantitative/statistics/multiple-regression.md)
 	 	* [ARMA模型](quantitative/statistics/arma.md)
-* [资产组合]
+* [期权](option/option.md)
 
