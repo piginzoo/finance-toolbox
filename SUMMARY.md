@@ -17,4 +17,4 @@
 	 	* [多元回归](quantitative/statistics/multiple-regression.md)
 	 	* [ARMA模型](quantitative/statistics/arma.md)
 * [期权](option/option.md)
-
+* [风险控制](risk/risk.md)
