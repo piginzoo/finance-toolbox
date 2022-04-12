@@ -4,7 +4,7 @@
 * [投资学](investment/investment.md)
 * [多因子模型](mfm/mfm.md)
 	 * [第一个例子](mfm/first_example.md)
-	 * [因子列表](mfm/factors.md)	 
+	 * [因子列表](https://github.com/piginzoo/mfm_learner/blob/main/example/factors/README.md)	 
 * [基金](fund/fund.md)
 * [计量金融](quantitative/quantitative.md)
 	 * [统计基础](quantitative/statistics.md)
