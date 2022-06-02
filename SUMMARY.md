@@ -18,3 +18,4 @@
 	 	* [ARMA模型](quantitative/statistics/arma.md)
 * [期权](option/option.md)
 * [风险控制](risk/risk.md)
+* [技术指标](indicator/indicator.md)
