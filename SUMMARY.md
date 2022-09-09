@@ -16,6 +16,8 @@
 	 	* [一元回归](quantitative/statistics/simple-regression.md)
 	 	* [多元回归](quantitative/statistics/multiple-regression.md)
 	 	* [ARMA模型](quantitative/statistics/arma.md)
+	 	* [时间序列分析](quantitative/statistics/timeseries.md)
 * [期权](option/option.md)
 * [风险控制](risk/risk.md)
+* [如何搭建量化系统](risk/risk.md)
 * [技术指标](indicator/indicator.md)

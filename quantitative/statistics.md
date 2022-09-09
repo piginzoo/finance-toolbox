@@ -29,6 +29,7 @@
 * [一元回归](quantitative/statistics/simple-regression.md)
 * [多元回归](quantitative/statistics/multiple-regression.md)
 * [ARMA模型](quantitative/statistics/arma.md)
+* [时间序列分析](quantitative/statistics/timeseries.md))
 
 # 参考
 
