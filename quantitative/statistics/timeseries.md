@@ -344,7 +344,7 @@ k步差分：$$\nabla _k x_t = x_t - x_{t-k} = (1-B^k)x_t$$
 
 具备以下结构的模型，称作p阶自回归模型，记做 AR(p)
 
-$$$$
+$$
 \begin{cases}
 x_t = \varphi_0 + \varphi_1 x_{t-1} + \varphi_2 x_{t-2} + ... + \varphi_p x_{t-p} +\varepsilon_t , \varphi_p \neq 0\\
 E(\varepsilon_t)=0 \\
@@ -353,7 +353,7 @@ E(\varepsilon_t\cdot\varepsilon_s)=0, t \neq s \\
 E(x_s\cdot\varepsilon_t)=0,\forall s<t
 \end{cases}
 
-$$$$
+$$
 
 - 模型最高**阶为p**，$$\varphi_p \neq 0$$保证
 - 条件2、3、4，保证了随机干扰序列$$\varepsilon_t$$是零均值的白噪音序列
