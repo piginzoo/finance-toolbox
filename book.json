@@ -1,6 +1,7 @@
 {
     "plugins": [
     	"-lunr",
+    	"chapter-fold",
     	"mathjax-pro",
     	"intopic-toc",
     	"back-to-top-button"
@@ -13,16 +14,25 @@
             "maxIndexSize": 10000000000000000
         },
 	    "theme-default": {
-	        "showLevel": true
+	        "showLevel": true,
+	        "maxdepth": 1,
+	        "mindepth": 1
 	    },
 	    "intopic-toc": {
 			"label": "章节目录",
 			"selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6",
 			"mode": "nested",
-			"maxDepth": 6,
+			"maxDepth": 3,
 			"isCollapsed": true,
 			"isScrollspyActive": true,
 			"visible": true
-	    }
-	}
+	    },
+		"chapter-fold": {
+		}
+	},
+	"links": {
+        "sidebar": {
+            "动物园的猪": "https://www.piginzoo.com"
+        }
+    }
 }

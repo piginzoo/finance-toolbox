@@ -18,20 +18,20 @@
 
 3). 假设检验
 
+## 目录
 
-# 目录
+* [基础](statistics/basic.html)
+* [几种分布](quantitative/statistics/distribution.html)
+* [参数估计](quantitative/statistics/params-estimation.html)
+* [假设检验](quantitative/statistics/test.html)
+* [方差分析](quantitative/statistics/var-analysis.html)
+* [一元回归](quantitative/statistics/simple-regression.html)
+* [多元回归](quantitative/statistics/multiple-regression.html)
+* [ARMA模型](quantitative/statistics/arma.html)
+* [时间序列分析](quantitative/statistics/timeseries.html)
 
-* [基础](quantitative/statistics/basic.md)
-* [几种分布](quantitative/statistics/distribution.md)
-* [参数估计](quantitative/statistics/params-estimation.md)
-* [假设检验](quantitative/statistics/test.md)
-* [方差分析](quantitative/statistics/var-analysis.md)
-* [一元回归](quantitative/statistics/simple-regression.md)
-* [多元回归](quantitative/statistics/multiple-regression.md)
-* [ARMA模型](quantitative/statistics/arma.md)
-* [时间序列分析](quantitative/statistics/timeseries.md)
 
-# 参考
+## 参考
 
 - [《统计学》 贾俊平](https://book.douban.com/subject/10956491/)
 
