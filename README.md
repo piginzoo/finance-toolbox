@@ -28,6 +28,7 @@ description: 把自己金融理财中的知识都汇集到这里
 * [风险控制](risk/risk.md)
 * [如何搭建量化系统](risk/risk.md)
 * [技术指标](indicator/indicator.md)
+	* [在线指标](indicator/online.md)
 * [中国经济](china/china.md)
 
 # 常用参考
