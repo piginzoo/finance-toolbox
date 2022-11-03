@@ -1,3 +1,21 @@
+# 财经解读
+
+- [傅帅的投研圈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwMzM1MDYyMw==&action=getalbum&album_id=2524008843035787264&scene=173&from_msgid=2247485862&from_itemidx=1&count=3&nolastread=1#wechat_redirect):国内的关注美股一个投研经理的分享
+- [LT视界](https://www.youtube.com/c/lifetimeuscn):比较关注政治和经济的个人外媒
+- [股乾爹 KuKanTieh](https://www.youtube.com/channel/UCDDneQi63kJAdr3i5VCPzHg):台湾胖哥，周更，分享最新美联储动向。
+- [楊世光在金錢爆](https://www.youtube.com/c/%E9%87%91%E9%8C%A2%E7%88%86):逗逼台湾财经媒体人，全球视野。
+- [蒙面财经](https://www.youtube.com/channel/UCjJklW6MyT2yjHEOrRu-FOA)：带着V字面具的投资人。
+- [鈔錢部署](https://www.youtube.com/c/%E8%8F%AF%E8%A6%96%E5%84%AA%E9%81%B8-%E9%88%94%E9%8C%A2%E9%83%A8%E7%BD%B2):台湾财经媒体
+- [Sun Riches](https://www.youtube.com/user/sun2823793)，只读文稿的一个UP主，主要面向国内财经消息解读。
+- [刘翔的投资频道](https://www.youtube.com/channel/UC0e5c4U67Vm6sAVK0vxN3Uw)：一个冷静的个人投资者。
+- [MoneyXZY](https://www.youtube.com/c/MoneyXYZ):润到加国的胖哥，很科普的很多知识。
+- [跟我一起来谈钱](https://www.youtube.com/channel/UC5RtC9dKUJ9noJ4C6N4XnmQ):美国姐姐分享美国投资的情况。
+- [路财主](https://www.youtube.com/channel/UCHiUGbWH0Tpudc6ImtKRWYg)：挺好的一个科普金融时间的UP主。
+- [塔哥FRM](https://space.bilibili.com/1159020889/?spm_id_from=333.999.0.0)：经济学博士，分享金融背后的知识。
+- [小林说](https://www.youtube.com/c/Lindsay%E8%AF%B4)：前大摩的金融高才女，现在的知名UP主，通俗易懂的讲金融事件和历史，方便扫盲。
+- [汤山老王](https://www.youtube.com/c/%E6%B1%A4%E5%B1%B1%E8%80%81%E7%8E%8B/videos)：剖析热点事件背后的思考，立场偏中国。
+- [大佬时光](https://www.youtube.com/channel/UCsk_KewWLxnd0Ecs0zMs1BQ)：把国内的一些财经大咖的信息汇集起来，有些很有深度。
+
 
 # 股市指标
 
