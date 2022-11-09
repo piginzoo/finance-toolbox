@@ -26,7 +26,10 @@
 - [综合数据库 - CSMAR](https://cn.gtadata.com/)：CSMAR数据库（China Stock Market & Accounting Research Database)是深圳希施玛数据科技，很全，收费的。科研都用这个。
 ## 特别关注指标
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
-- [FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)
+
+- [FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差内外有风险，2个标准差是高风险。
+- [万得全A股息率溢价 - 韭圈儿](https://funddb.cn/site/fed)，1个标准差内外有风险，2个标准差是高风险；和市值负相关。
+- [巴菲特指标 - gurufocus](https://www.gurufocus.cn/indicator/global_market_valuation/CHN): 总市值／国内生产总值，56％ < 比率 <= 69％在合理区间。
 - [恐惧贪婪指数 - 韭圈儿](https://funddb.cn/tool/fear)
 
 # 经济指标
