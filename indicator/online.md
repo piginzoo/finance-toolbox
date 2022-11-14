@@ -31,6 +31,7 @@
 - [巴菲特指标 - gurufocus](https://www.gurufocus.cn/indicator/global_market_valuation/CHN): 总市值／国内生产总值，56％ < 比率 <= 69％在合理区间。
 - [席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe_chn): 市值 / 刨除了通胀的10年的利润均值，是刨除通胀、且做了移动均值的市盈率。
 - [恐惧贪婪指数 - 韭圈儿](https://funddb.cn/tool/fear)：韭菜全自己做的一个指标。
+- [指数估值](https://funddb.cn/site/index)，（当前市盈率-5年市盈最小）/（5年市盈最大-5年市盈最小），是一个0%-100%的数，当前值用的是指数标的的中位值，80%+就高估了，20%-就是低估了。[参](https://www.bilibili.com/video/BV1se4y1U7o6)
 
 # 经济指标
 - [国内经济数据 - 东方财富](https://data.eastmoney.com/cjsj/cpi.html)：包含各类经济指标。
