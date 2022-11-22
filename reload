@@ -1,0 +1,2 @@
+# 靠！不知道livereloader不管用了，每次不能保存md文件就自动刷新了，没办法，写个命令touch book.json触发把
+touch book.json

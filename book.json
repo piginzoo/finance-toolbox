@@ -4,7 +4,8 @@
     	"chapter-fold",
     	"mathjax-pro",
     	"intopic-toc",
-    	"back-to-top-button"
+    	"back-to-top-button",
+    	"livereload"
     ],
     "styles": {
 		"website": "styles/website.css"
