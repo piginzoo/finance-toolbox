@@ -48,7 +48,8 @@ description: 把自己金融理财中的知识都汇集到这里
 - [综合数据库 - CSMAR](https://cn.gtadata.com/)：CSMAR数据库（China Stock Market & Accounting Research Database)是深圳希施玛数据科技，很全，收费的。科研都用这个。
 - [中国各种经济指标:tradingeconomics.com](https://zh.tradingeconomics.com/china/indicators)，以及[宏观经济指标解释](https://zhuanlan.zhihu.com/p/107296111)
 - [中国各类市场的指标:.investing.com](https://cn.investing.com/)
-
+- stock.us研报：[金工研报](https://stock.us/cn/report/quant)、[策略研报](https://stock.us/cn/report/strategy)、[债券研报](https://stock.us/cn/report/bond)、[宏观研报](https://stock.us/cn/report/macro)
+- [慧博投研](http://www.hibor.com.cn/)：各类研报
 
 
 # 更新和备注
