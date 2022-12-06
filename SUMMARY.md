@@ -1,6 +1,7 @@
 * [仪表盘](README.md)
 * [投资知识](knowledge/knowledge.md)
 	* [基金](knowledge/fund/fund.md)
+	* [定投](knowledge/period-invest/period-invest.md)
 	* [因子模型](knowledge/mfm/mfm.md)
 		* [基础概念](knowledge/mfm/basic.md)
 		* [第一个例子](knowledge/mfm/first_example.md)
