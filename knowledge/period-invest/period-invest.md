@@ -27,27 +27,23 @@
 ## 实操
 
 - [老股民秘笈和王之改良](https://www.bilibili.com/video/BV1pr4y1w79f)
-- [定投的正确姿势](https://www.bilibili.com/video/BV15E411N7oA)
+- [定投的正确姿势](https://www.bilibili.com/video/BV15E411N7oA)，
 - [ETF拯救世界吗？](https://www.bilibili.com/video/BV1GE411u7A9)
-- [网格交易](https://www.bilibili.com/video/BV1ey4y1m7Pm)
-- [实战网格策略](https://www.bilibili.com/video/BV1WU4y1472a)
-- [ETF网格避坑指南](https://www.bilibili.com/video/BV1Zv4115796)
-- [倒金字塔交易模型](https://www.bilibili.com/video/BV1Jy4y1J7Ev)
+- [网格交易](https://www.bilibili.com/video/BV1ey4y1m7Pm)，赚对敲（低买高卖）的钱，甚至是日内；超预期向下突破的问题；
+- [实战网格策略](https://www.bilibili.com/video/BV1WU4y1472a)，网格高度的影响：2%的网格15%的年化需要200次交易；超预期下跌会导致网格增加，高位筹码增加；倒金字塔+网格+对敲+建仓+出货。
+- [ETF网格避坑指南](https://www.bilibili.com/video/BV1Zv4115796)，利用好日内波动幅度，
+- [股票ETF和实盘投资分享](https://www.bilibili.com/video/BV14a4y1a7wZ),ETF要研究行业；价格范围好估；推荐玩ETF300，比50活跃，比500稳定；3-5年年化10~15%；对腾讯、茅台这种设一个不可能低的价格买。
 - [如何用算法精准的控制舱位](https://www.bilibili.com/video/BV1fv411N7jC/)
 - [左侧交易才是我的真爱](https://www.bilibili.com/video/BV1jq4y1T7BA)
 - [右侧交易](https://www.bilibili.com/video/BV17U4y177Ve/)
 - [茅台我就标1499！耐心的收获](https://www.bilibili.com/video/BV1Ly4y177vK/)，找出几十个自己熟悉的品牌，跌倒一个不可能的价格，买！
-- [年化20%的算法交易](https://www.bilibili.com/video/BV1d5411P7Lt)，把他的网格交易+倒金字塔融合到到一起，实现了出来，可惜没透露更多细节。
 - [断舍离式的长期价值投资](https://www.bilibili.com/video/BV16K4y1m7qv)，这个有意思，把赚到钱划拨到另外一个账户买一些长期持有的股票。
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [聊聊量化交易对市场的影响](https://www.bilibili.com/video/BV1pL4y1a7R6/聊聊量化交易对市场的影响)
+
+### 倒金字塔
+- [倒金字塔交易模型](https://www.bilibili.com/video/BV1Jy4y1J7Ev)，越跌买越多、越涨卖越多；成本时刻接近最低价；强制性择时策略，投资更有计划性；不同于网格是收获波动例如，而倒金字塔是长期价值+网格价值；对标的上下区间有相对准确的预估；起始价格非常重要，在中部开始；不适合个股；
+- [用倒金字塔无风险获利](https://www.bilibili.com/video/BV1KE411q72H)，买卖时间的不被别人定义，我做主；用在ETF上规避个股风险；尖对尖金字塔会造成资金浪费；错开上下2个金字塔，中间地带而不是中间线，这个地带争取赚到5%的利润，配合上顶部的大利润，年化可期；中间区域的利润和底部筹码市值分开，底部筹码的收益要5年后看，赚时间的钱。
+- [年化20%的算法交易](https://www.bilibili.com/video/BV1d5411P7Lt)，把他的网格交易+倒金字塔融合到到一起，实现了出来，可惜没透露更多细节。
+- [摩擦成本-低手投资论](https://www.bilibili.com/video/BV1Bi4y1b7o1)，分为99个金字塔网格；可以做频繁的对敲交易；
+
 - []()
