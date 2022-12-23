@@ -50,7 +50,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [中国各类市场的指标:.investing.com](https://cn.investing.com/)
 - stock.us研报：[金工研报](https://stock.us/cn/report/quant)、[策略研报](https://stock.us/cn/report/strategy)、[债券研报](https://stock.us/cn/report/bond)、[宏观研报](https://stock.us/cn/report/macro)
 - [慧博投研](http://www.hibor.com.cn/)：各类研报
-
+- [世界银行公开数据](https://data.worldbank.org.cn/)：世行的数据。
 
 # 更新和备注
 
