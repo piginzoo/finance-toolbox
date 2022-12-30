@@ -1,5 +1,19 @@
 # 量化投资
 
+# 我的代码库
+
+为了实现和验证我的很多想法，我在[我的github](https://github.com/piginzoo)上创建一系列的repo，来实现我的量化投资想法，它们包括：
+
+- [finance-toolbox](https://github.com/piginzoo/finance-toolbox):就是这本gitbook的markdown源码，我host它们在github上了。
+- [quant_research](https://github.com/piginzoo/quant_research)，是我开的一个做研究的一个新项目，不过目前主要应用在ETF定投上。
+- [mlstock](https://github.com/piginzoo/mlstock)，是我照着致敬大神的华泰金工复现的思路，复现了她的复现，是一个周频的机器学习选股项目，结果不太理想，我没有上实盘，但是已经具备了完整的因子筛选和机器学习训练和回测的完整代码。
+- [quant_trader](https://github.com/piginzoo/quant_trader)，是我写了一个在服务器端，接受客户端推送过来的买卖信号，并且，推送给交易软件（如easytrader）来做交易的调度框架。
+- [mfm_learner](https://github.com/piginzoo/mfm_learner)，是我学习多因子过程中的一个项目，实现了如何做因子挖掘，IC检验，因子合成，以及用AlphaLens做因子的各项评价以及图示的过程，是一个完整地多因子实现的项目。
+- [easytrader](https://github.com/piginzoo/easytrader)，是我基于easytrader做的一个魔改版，easytrader是利用python的automaticUI，也就是UI机器人方式，来操纵同花顺PC版本，来实现自动化交易的一个开源软件，但是很久没更新了，我修改了其中的bug，让他适配最新的同花顺软件。
+- [fund_analysis](https://github.com/piginzoo/fund_analysis)，是我早期写的一个对基金进行爬取和分析的一个项目，后来发现，基金爬取你不必搞，有akshare、tushare，基金分析，你又分析不过晨星的分析，这个项目确实没啥价值了，不过，这是我第一个quant项目，还是让我收获了不少。
+
+- [私有：catzoo](https://github.com/piginzoo/ctazoo)，这是一个私有项目，主要是完整实现了一个CTA方式的策略实现、回测、择时等细节，也是我在模拟盘上跑起来的项目，考虑到和朋友一起合作的，就选了闭源，如果感兴趣，可以和我联系。
+
 # 好的视频
 
 网上关于量化投资的靠谱的视频不多，大多都是蹭噱头的垃圾，所以，把自己看到的一些有一定价值的视频收集起来：
