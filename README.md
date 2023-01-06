@@ -41,6 +41,7 @@ description: 把自己金融理财中的知识都汇集到这里
 ## 各类数据指标
 - [新浪 - 中国宏观指数](http://finance.sina.com.cn/mac/)
 - [新浪 - 全球宏观指数](https://finance.sina.com.cn/worldmac/allindicator.shtml)
+- [乐咕乐股的各类指标](https://legulegu.com/)：股市的各类指标、宏观的货币指标等，免费的。
 - [各国股市 - investing.com](https://cn.investing.com/equities/)：英为财经，股市、外汇、债券非常全。
 - [投资导航 - value500](http://value500.com/PE.asp)，一个很全的指标聚合网站。
 - [全球股市市值 - stockq](https://www.stockq.org/economy/cap.php)，一个简洁的各类指标网站。
