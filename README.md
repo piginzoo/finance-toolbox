@@ -5,7 +5,7 @@ description: 把自己金融理财中的知识都汇集到这里
 
 ## 财经自媒体
 
-- [傅帅的投研圈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwMzM1MDYyMw==&action=getalbum&album_id=2524008843035787264&scene=173&from_msgid=2247485862&from_itemidx=1&count=3&nolastread=1#wechat_redirect):国内的关注美股一个投研经理的分享
+- [傅帅的投研圈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwMzM1MDYyMw==&action=getalbum&album_id=2524008843035787264&scene=173&from_msgid=2247485862&from_itemidx=1&count=3&nolastread=1#wechat_redirect)\|[杰出财经](https://www.youtube.com/@F_Investing):国内的关注美股一个投研经理的分享
 - [LT视界](https://www.youtube.com/c/lifetimeuscn):比较关注政治和经济的个人外媒
 - [股乾爹 KuKanTieh](https://www.youtube.com/channel/UCDDneQi63kJAdr3i5VCPzHg):台湾胖哥，周更，分享最新美联储动向。
 - [楊世光在金錢爆](https://www.youtube.com/c/%E9%87%91%E9%8C%A2%E7%88%86):逗逼台湾财经媒体人，全球视野。
