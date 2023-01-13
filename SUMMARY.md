@@ -7,6 +7,8 @@
 		* [基础概念](knowledge/mfm/basic.md)
 		* [第一个例子](knowledge/mfm/first_example.md)
 		* [因子列表](https://github.com/piginzoo/mfm_learner/blob/main/mfm_learner/example/factors/README.md)	 
+	* [开发手记](knowledge/develope/develope.md)
+		* [QMT趟坑](knowledge/develope/qmt.md)
 	* [期权](knowledge/option/option.md)
 	* [风险控制](knowledge/risk/risk.md)
 	* [技术指标](knowledge/indicator/indicator.md)
