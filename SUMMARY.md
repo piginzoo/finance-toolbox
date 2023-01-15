@@ -28,4 +28,5 @@
 	* [债券市场](china/bond.md)
 	* [货币市场](china/findex.md)
 	* [经济指标](china/indicator.md)
+	* [北京房子](china/beijing.md)
 * [关于](about.md)
