@@ -12,6 +12,7 @@
 	* [期权](knowledge/option/option.md)
 	* [风险控制](knowledge/risk/risk.md)
 	* [技术指标](knowledge/indicator/indicator.md)
+	* [评价指标](knowledge/indicator/metrics.md)
 * [基础知识](knowledge/knowledge.md)
 	* [计量金融](knowledge/quantitative/quantitative.md)
 		* [基础](knowledge/quantitative/statistics/basic.md)
