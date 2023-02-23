@@ -20,8 +20,9 @@ description: 把自己金融理财中的知识都汇集到这里
 - [小林说](https://www.youtube.com/c/Lindsay%E8%AF%B4)：前大摩的金融高才女，现在的知名UP主，通俗易懂的讲金融事件和历史，方便扫盲。
 - [汤山老王](https://www.youtube.com/c/%E6%B1%A4%E5%B1%B1%E8%80%81%E7%8E%8B/videos)：剖析热点事件背后的思考，立场偏中国。
 - [大佬时光](https://www.youtube.com/channel/UCsk_KewWLxnd0Ecs0zMs1BQ)：把国内的一些财经大咖的信息汇集起来，有些很有深度。
+- [财经大咖](https://www.youtube.com/channel/UCIu889D_vLfXvVUMdmM5APw):和大佬时光差不多，新号，[旧的](https://www.youtube.com/@Finance_and_Economics)不更新了
 
-- B站各路金融UP主：
+- A股日评：
 [发牌手杰克](https://space.bilibili.com/2142101977/),
 [刀哥](https://space.bilibili.com/66559789),
 [股帮老爷爷](https://space.bilibili.com/2064644818),
@@ -29,8 +30,13 @@ description: 把自己金融理财中的知识都汇集到这里
 [顶底之王](https://space.bilibili.com/1508235842),
 [贝侃](https://space.bilibili.com/1226974365),
 [王纯迅](https://space.bilibili.com/479817898/),
-[张翼轸](https://space.bilibili.com/396969839)
+[张翼轸](https://space.bilibili.com/396969839),
+[雷班長](https://www.youtube.com/@-NFT)
 
+- 美股日评：
+[DavidHsu](https://www.youtube.com/@davidhsu5769),
+[股市咖啡屋](https://www.youtube.com/@StockCafe/videos),
+[RighWayOptions](https://www.youtube.com/@RightWayOptions)
 
 ## 股市指标
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
