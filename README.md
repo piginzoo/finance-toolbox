@@ -51,6 +51,8 @@ description: 把自己金融理财中的知识都汇集到这里
 ## 金融指标
 
 - [中债指数ChinaBond](https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN)
+- 十年期国债收益率：[中国](https://stock.finance.sina.com.cn/forex/globalbd/gcny10.html),[美国](https://stock.finance.sina.com.cn/forex/globalbd/usg10y.html)
+- [美元指数](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml)，[人民币在岸汇率](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)
 - [人民银行公开市场业务](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/index.html)，[逆回购/MLF市场公告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html)
 - [Shibor](https://www.shibor.org/shibor/shibortrend/),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)
 

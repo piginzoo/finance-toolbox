@@ -4,8 +4,11 @@ img[alt=small] { width: 25%; }
 img[alt=img100] { width: 100%; }
 img[alt=img80] { width: 80%; }
 img[alt=img75] { width: 75%; }
+img[alt=img48] { width: 48%; }
+img[alt=img45] { width: 45%; }
 img[alt=img50] { width: 50%; }
 img[alt=img33] { width: 33%; }
+img[alt=img32] { width: 32%; }
 img[alt=img25] { width: 25%; }
 
 em { font-style: normal; font-weight: bold;color: red; }
