@@ -40,6 +40,7 @@ description: 把自己金融理财中的知识都汇集到这里
 
 ## 股市指标
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
+- [A股TTM市盈率中位数](https://legulegu.com/stockdata/a-ttm-lyr)
 - [FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差内外有风险，2个标准差是高风险。
 - [万得全A股息率溢价 - 韭圈儿](https://funddb.cn/site/fed)，1个标准差内外有风险，2个标准差是高风险；和市值负相关。
 - [巴菲特指标 - gurufocus](https://www.gurufocus.cn/indicator/global_market_valuation/CHN): 总市值／国内生产总值，56％ < 比率 <= 69％在合理区间。
@@ -49,12 +50,16 @@ description: 把自己金融理财中的知识都汇集到这里
 
 
 ## 金融指标
-
 - [中债指数ChinaBond](https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN)
-- 十年期国债收益率：[中国](https://stock.finance.sina.com.cn/forex/globalbd/gcny10.html),[美国](https://stock.finance.sina.com.cn/forex/globalbd/usg10y.html)
+- 十年期国债收益率：[中国](https://cn.investing.com/rates-bonds/china-10-year-bond-yield),[美国](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
 - [美元指数](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml)，[人民币在岸汇率](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)
 - [人民银行公开市场业务](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/index.html)，[逆回购/MLF市场公告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html)
 - [Shibor](https://www.shibor.org/shibor/shibortrend/),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)
+- [美联储利率](https://zh.tradingeconomics.com/united-states/interest-rate)
+
+# 经济指标
+- [PMI](https://legulegu.com/stockdata/pmi)
+
 
 ## 各类数据指标
 - [新浪 - 中国宏观指数](http://finance.sina.com.cn/mac/)

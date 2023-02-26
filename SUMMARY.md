@@ -1,5 +1,6 @@
 * [仪表盘](README.md)
 * [投资知识](knowledge/knowledge.md)
+	* [股票](knowledge/stock/stock.md)
 	* [基金](knowledge/fund/fund.md)
 	* [定投](knowledge/period-invest/period-invest.md)
 	* [量化投资](knowledge/quant/quant.md)
