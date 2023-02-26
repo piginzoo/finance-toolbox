@@ -41,8 +41,8 @@ description: 把自己金融理财中的知识都汇集到这里
 ## 股市指标
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
 - [A股TTM市盈率中位数](https://legulegu.com/stockdata/a-ttm-lyr)
-- [FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差内外有风险，2个标准差是高风险。
-- [万得全A股息率溢价 - 韭圈儿](https://funddb.cn/site/fed)，1个标准差内外有风险，2个标准差是高风险；和市值负相关。
+- [万得全A FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差内外有风险，2个标准差是高风险。
+- [万得全A 股息率溢价 - 韭圈儿](https://funddb.cn/site/fed)，1个标准差内外有风险，2个标准差是高风险；和市值负相关。
 - [巴菲特指标 - gurufocus](https://www.gurufocus.cn/indicator/global_market_valuation/CHN): 总市值／国内生产总值，56％ < 比率 <= 69％在合理区间。
 - [席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe_chn): 市值 / 刨除了通胀的10年的利润均值，是刨除通胀、且做了移动均值的市盈率。
 - [恐惧贪婪指数 - 韭圈儿](https://funddb.cn/tool/fear)：韭菜全自己做的一个指标。
