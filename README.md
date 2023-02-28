@@ -51,11 +51,19 @@ description: 把自己金融理财中的知识都汇集到这里
 
 ## 金融指标
 - [中债指数ChinaBond](https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN)
-- 十年期国债收益率：[中国](https://cn.investing.com/rates-bonds/china-10-year-bond-yield),[美国](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
+- [中国十年期国债收益率](https://cn.investing.com/rates-bonds/china-10-year-bond-yield)
 - [美元指数](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml)，[人民币在岸汇率](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)
 - [人民银行公开市场业务](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/index.html)，[逆回购/MLF市场公告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html)
-- [Shibor](https://www.shibor.org/shibor/shibortrend/),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)
+- [M1/M2](http://value500.com/M1.asp)
+- [Shibor](https://www.shibor.org/shibor/shibortrend/)[2](http://value500.com/Shibor.asp),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)
+- [美国十年期国债收益率](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
 - [美联储利率](https://zh.tradingeconomics.com/united-states/interest-rate)
+- [美联储资产负债表](https://zh.tradingeconomics.com/united-states/central-bank-balance-sheet)
+- [黄金价格XAUUSD](https://www.dailyfxasia.com/gold-price)
+- [美元指数](https://www.dailyfxasia.com/us-dollar-index)
+- [铜价格](https://www.dailyfxasia.com/copper-price)
+- [原油价格](https://www.dailyfxasia.com/crude-oil)
+- [天然气价格](https://www.dailyfxasia.com/natural-gas)
 
 # 经济指标
 - [PMI](https://legulegu.com/stockdata/pmi)
