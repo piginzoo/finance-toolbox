@@ -55,7 +55,9 @@ description: 把自己金融理财中的知识都汇集到这里
 - [美元指数](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml)，[人民币在岸汇率](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)
 - [人民银行公开市场业务](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/index.html)，[逆回购/MLF市场公告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html)
 - [M1/M2](http://value500.com/M1.asp)
-- [Shibor](https://www.shibor.org/shibor/shibortrend/)[2](http://value500.com/Shibor.asp),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)
+- [Shibor](https://www.shibor.org/shibor/shibortrend/)[2](http://value500.com/Shibor.asp),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)[2](https://www.chinamoney.com.cn/chinese/bkfrr/)
+
+- [美股经济事件日历](https://www.dailyfxasia.com/calendar)
 - [美国十年期国债收益率](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
 - [美联储利率](https://zh.tradingeconomics.com/united-states/interest-rate)
 - [美联储资产负债表](https://zh.tradingeconomics.com/united-states/central-bank-balance-sheet)
