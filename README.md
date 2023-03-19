@@ -21,7 +21,6 @@ description: 把自己金融理财中的知识都汇集到这里
 - [汤山老王](https://www.youtube.com/c/%E6%B1%A4%E5%B1%B1%E8%80%81%E7%8E%8B/videos)：剖析热点事件背后的思考，立场偏中国。
 - [大佬时光](https://www.youtube.com/channel/UCsk_KewWLxnd0Ecs0zMs1BQ)：把国内的一些财经大咖的信息汇集起来，有些很有深度。
 - [财经大咖](https://www.youtube.com/channel/UCIu889D_vLfXvVUMdmM5APw):和大佬时光差不多，新号，[旧的](https://www.youtube.com/@Finance_and_Economics)不更新了
-
 - A股日评：
 [发牌手杰克](https://space.bilibili.com/2142101977/),
 [刀哥](https://space.bilibili.com/66559789),
@@ -32,7 +31,6 @@ description: 把自己金融理财中的知识都汇集到这里
 [王纯迅](https://space.bilibili.com/479817898/),
 [张翼轸](https://space.bilibili.com/396969839),
 [雷班長](https://www.youtube.com/@-NFT)
-
 - 美股日评：
 [DavidHsu](https://www.youtube.com/@davidhsu5769),
 [股市咖啡屋](https://www.youtube.com/@StockCafe/videos),
@@ -42,7 +40,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
 - [A股历史市盈率](https://eniu.com/)
 - [A股TTM市盈率中位数](https://legulegu.com/stockdata/a-ttm-lyr)
-- [万得全A FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差内外有风险，2个标准差是高风险。
+- [万得全A FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差外有风险，2个标准差是高风险
 - [万得全A 股息率溢价 - 韭圈儿](https://funddb.cn/site/fed)，1个标准差内外有风险，2个标准差是高风险；和市值负相关。
 - [巴菲特指标 - gurufocus](https://www.gurufocus.cn/indicator/global_market_valuation/CHN): 总市值／国内生产总值，56％ < 比率 <= 69％在合理区间。
 - [席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe_chn): 市值 / 刨除了通胀的10年的利润均值，是刨除通胀、且做了移动均值的市盈率。
@@ -57,7 +55,6 @@ description: 把自己金融理财中的知识都汇集到这里
 - [人民银行公开市场业务](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/index.html)，[逆回购/MLF市场公告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html)
 - [M1/M2](http://value500.com/M1.asp)
 - [Shibor](https://www.shibor.org/shibor/shibortrend/)[2](http://value500.com/Shibor.asp),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)[2](https://www.chinamoney.com.cn/chinese/bkfrr/)
-
 - [美股经济事件日历](https://www.dailyfxasia.com/calendar)
 - [美国十年期国债收益率](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
 - [美联储利率](https://zh.tradingeconomics.com/united-states/interest-rate)
