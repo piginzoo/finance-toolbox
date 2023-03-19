@@ -36,7 +36,7 @@ description: 把自己金融理财中的知识都汇集到这里
 
 ## 经济指标
 - [PMI](https://legulegu.com/stockdata/pmi)
-
+- [洋同学的宏观笔记](https://zhengceku.fun/)，非常赞的个人宏观经济指标跟踪。
 
 ## 数据库
 - [新浪 - 中国宏观指数](http://finance.sina.com.cn/mac/)
