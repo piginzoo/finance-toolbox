@@ -38,7 +38,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [PMI](https://legulegu.com/stockdata/pmi)
 
 
-## 各类数据指标
+## 数据库
 - [新浪 - 中国宏观指数](http://finance.sina.com.cn/mac/)
 - [新浪 - 全球宏观指数](https://finance.sina.com.cn/worldmac/allindicator.shtml)
 - [乐咕乐股的各类指标](https://legulegu.com/)：股市的各类指标、宏观的货币指标等，免费的。
