@@ -48,7 +48,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [席勒市盈率](https://www.gurufocus.cn/indicator/shiller_pe_chn): 市值 / 刨除了通胀的10年的利润均值，是刨除通胀、且做了移动均值的市盈率。
 - [恐惧贪婪指数 - 韭圈儿](https://funddb.cn/tool/fear)：韭菜全自己做的一个指标。
 - [指数估值](https://funddb.cn/site/index)，（当前市盈率-5年市盈最小）/（5年市盈最大-5年市盈最小），是一个0%-100%的数，当前值用的是指数标的的中位值，80%+就高估了，20%-就是低估了。[参](https://www.bilibili.com/video/BV1se4y1U7o6)
-
+- [上市公司财报查询 - 巨潮](http://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search&lastPage=index)
 
 ## 金融指标
 - [中债指数ChinaBond](https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN)
