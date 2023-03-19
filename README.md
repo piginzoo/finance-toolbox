@@ -3,7 +3,7 @@ description: 把自己金融理财中的知识都汇集到这里
 ---
 <span style="font-size:50px;text-align:top;">我的仪表盘<span>![img25](/images/20221202/1669948616866.jpg) 
 
-
+# 各类指标
 
 ## 股市指标
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
@@ -34,7 +34,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [原油价格](https://www.dailyfxasia.com/crude-oil)
 - [天然气价格](https://www.dailyfxasia.com/natural-gas)
 
-# 经济指标
+## 经济指标
 - [PMI](https://legulegu.com/stockdata/pmi)
 
 
@@ -53,7 +53,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [慧博投研](http://www.hibor.com.cn/)：各类研报
 - [世界银行公开数据](https://data.worldbank.org.cn/)：世行的数据。
 
-## 财经自媒体
+# 财经自媒体
 
 - [傅帅的投研圈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwMzM1MDYyMw==&action=getalbum&album_id=2524008843035787264&scene=173&from_msgid=2247485862&from_itemidx=1&count=3&nolastread=1#wechat_redirect)\|[杰出财经](https://www.youtube.com/@F_Investing):国内的关注美股一个投研经理的分享
 - [LT视界](https://www.youtube.com/c/lifetimeuscn):比较关注政治和经济的个人外媒
