@@ -71,10 +71,10 @@ description: 把自己金融理财中的知识都汇集到这里
 - [汤山老王](https://www.youtube.com/c/%E6%B1%A4%E5%B1%B1%E8%80%81%E7%8E%8B/videos)：剖析热点事件背后的思考，立场偏中国。
 - [大佬时光](https://www.youtube.com/channel/UCsk_KewWLxnd0Ecs0zMs1BQ)：把国内的一些财经大咖的信息汇集起来，有些很有深度。
 - [财经大咖](https://www.youtube.com/channel/UCIu889D_vLfXvVUMdmM5APw):和大佬时光差不多，新号，[旧的](https://www.youtube.com/@Finance_and_Economics)不更新了
-- [王海滨的财经闲谈](https://www.youtube.com/@wang_haibin),一位橡胶期货大佬，现在常驻泰国评论经济
--[云聪金融交易分析](https://www.youtube.com/@yuncongtrade),云聪的技术分析有一套，学到了很多
-- [贝乐斯 Think Analyze Invest](https://www.youtube.com/@thinkanalyzeinvest)，一位很好剖析金融现象的大佬，可惜不更新了。
-- [美股期权](https://www.youtube.com/@user-nc7zt4hq1u),讲期权、美式期权的最好的up主，不过深入的话，要交费了。
+- [王海滨的财经闲谈](https://www.youtube.com/@wang_haibin)：一位橡胶期货大佬，现在常驻泰国评论经济
+- [云聪金融交易分析](https://www.youtube.com/@yuncongtrade)：云聪的技术分析有一套，学到了很多
+- [贝乐斯 Think Analyze Invest](https://www.youtube.com/@thinkanalyzeinvest)：一位很好剖析金融现象的大佬，可惜不更新了。
+- [美股期权](https://www.youtube.com/@user-nc7zt4hq1u)：讲期权、美式期权的最好的up主，不过深入的话，要交费了。
 - A股日评：
 [发牌手杰克](https://space.bilibili.com/2142101977/),
 [刀哥](https://space.bilibili.com/66559789),
