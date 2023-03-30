@@ -6,6 +6,7 @@ description: 把自己金融理财中的知识都汇集到这里
 # 各类指标
 
 ## 股市指标
+
 - [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
 - [A股历史市盈率](https://eniu.com/)
 - [A股TTM市盈率中位数](https://legulegu.com/stockdata/a-ttm-lyr)
@@ -18,6 +19,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [上市公司财报查询 - 巨潮](http://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search&lastPage=index)
 
 ## 金融指标
+
 - [中债指数ChinaBond](https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN)
 - [中国十年期国债收益率](https://cn.investing.com/rates-bonds/china-10-year-bond-yield)
 - [美元指数](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml)，[人民币在岸汇率](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)
@@ -35,10 +37,14 @@ description: 把自己金融理财中的知识都汇集到这里
 - [天然气价格](https://www.dailyfxasia.com/natural-gas)
 
 ## 经济指标
+
 - [PMI](https://legulegu.com/stockdata/pmi)
-- [洋同学的宏观笔记](https://zhengceku.fun/)，非常赞的个人宏观经济指标跟踪。
+- [中国宏观杠杆率](http://114.115.232.154:8080/)：国家资产负债研究中心，可以看企业、居民、政府的杠杆率。
 
 ## 数据库
+
+- [洋同学的宏观笔记](https://zhengceku.fun/)，非常赞的个人宏观经济指标跟踪。
+- [萝卜投研指标库](https://robo.datayes.com/v2/landing/indicator_library)：貌似是免费的，但是需要登录。
 - [新浪 - 中国宏观指数](http://finance.sina.com.cn/mac/)
 - [新浪 - 全球宏观指数](https://finance.sina.com.cn/worldmac/allindicator.shtml)
 - [乐咕乐股的各类指标](https://legulegu.com/)：股市的各类指标、宏观的货币指标等，免费的。
