@@ -776,7 +776,7 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 ## 第13章 如何让GPT4写出更生动的故事
 
-![](![](/images/chatgpt/story.png))
+![](/images/chatgpt/story.png)
 
 
 
