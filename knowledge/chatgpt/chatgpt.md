@@ -4,7 +4,7 @@
 
 这份资料来自于下方公众号，欢迎扫码关注，了解AI相关的优质学习资源、第一手使用体验。
 
-![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121433353-264080666.png)
+![](/images/chatgpt/qrcode.png)
 
 
 
@@ -736,7 +736,7 @@ https://www.bilibili.com/video/BV1zs4y1Z7WA
 
 ## 第10章 ChatGPT能做的49件事
 
-![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121238969-1498347093.png)
+![](/images/chatgpt/49.png)
 
 
 
@@ -776,7 +776,7 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 ## 第13章 如何让GPT4写出更生动的故事
 
-![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121343717-661541890.png)
+![](![](/images/chatgpt/story.png))
 
 
 
@@ -1063,4 +1063,4 @@ AI Tools：https://doc.clickup.com/37456139/d/h/13q28b-164/972da0c0d0a4eb8
 
 欢迎扫码关注，了解AI相关的优质学习资源、第一手使用体验。
 
-![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121433353-264080666.png)
+![](/images/chatgpt/qrcode.png)
