@@ -26,6 +26,7 @@
 		* [ARMA模型](knowledge/quantitative/statistics/arma.md)
 		* [时间序列分析](knowledge/quantitative/statistics/timeseries.md)
 	* [金融投资学](knowledge/finance/finance.md)
+	* [Chatgpt](knowledge/chatgpt/chatgpt.md)
 * [中国经济](china/china.md)
 	* [债券市场](china/bond.md)
 	* [货币社融](china/money.md)
