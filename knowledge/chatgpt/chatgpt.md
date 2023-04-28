@@ -4,7 +4,9 @@
 
 这份资料来自于下方公众号，欢迎扫码关注，了解AI相关的优质学习资源、第一手使用体验。
 
-![](https://files.mdnice.com/user/5417/42e37ead-caa0-4564-b7d7-3173ad2f3acc.png)
+![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121433353-264080666.png)
+
+
 
 
 
@@ -48,7 +50,7 @@ ChatGPT是在GPT-3基础上构建的聊天应用产品
 
 问：ChatGPT Plus多少钱？
 
-![img](https://docs.meta360.vip/server/index.php?s=/api/attachment/visitFile&sign=0bc40338f719d4acc706323aee06f07d)
+ChatGPT Plus一个月20美元。开通之前还需要先排队。
 
 
 
@@ -734,7 +736,7 @@ https://www.bilibili.com/video/BV1zs4y1Z7WA
 
 ## 第10章 ChatGPT能做的49件事
 
-![](https://files.mdnice.com/user/5417/b48ef1d7-9840-4a92-a18d-dce3e501bf3e.jpg)
+![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121238969-1498347093.png)
 
 
 
@@ -774,7 +776,7 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 ## 第13章 如何让GPT4写出更生动的故事
 
-![](https://files.mdnice.com/user/5417/e8b64346-5217-40a0-a83e-2a27d4a2a02b.png)
+![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121343717-661541890.png)
 
 
 
@@ -1061,4 +1063,4 @@ AI Tools：https://doc.clickup.com/37456139/d/h/13q28b-164/972da0c0d0a4eb8
 
 欢迎扫码关注，了解AI相关的优质学习资源、第一手使用体验。
 
-![](https://files.mdnice.com/user/5417/42e37ead-caa0-4564-b7d7-3173ad2f3acc.png)
+![](https://img2023.cnblogs.com/blog/1950148/202304/1950148-20230428121433353-264080666.png)
