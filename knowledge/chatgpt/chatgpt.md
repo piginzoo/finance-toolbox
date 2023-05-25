@@ -1,12 +1,10 @@
 # ChatGPT中文手册大全
 
-前言
+建了一个微信群，大家一起学习ChatGPT，一起分享资源。
 
-这份资料来自于下方公众号，欢迎扫码关注，了解AI相关的优质学习资源、第一手使用体验。
+**不收钱，免费加入！**入群加我微信，我拉你
 
-![](/images/chatgpt/qrcode.png)
-
-
+![](/images/chatgpt/syw.jpg)
 
 
 
@@ -115,6 +113,12 @@ https://mirror.xyz/boxchen.eth/fi-WPM78UeTRwo_r3rNZesrZ_hfQfFltkOT2kb9k6Jk
 ### ChatGPT提示学习教程
 
 https://learningprompt.wiki/docs/chatgpt-learning-path
+
+
+
+### 只需4步，把ChatGPT训练成写作能手
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483767&idx=1&sn=edd283abfaa8e551939a71eefd6f9714&chksm=ce15e48bf9626d9ddaa00a204f069829c90f5ac733cab3c5e17f5d8813293e4215a3ef082116#rd
 
 
 
@@ -808,6 +812,8 @@ https://zhuanlan.zhihu.com/p/614608835
 
 ChatPDF——上传pdf，然后你就可以基于pdf的内容去提问了：https://www.chatpdf.com/
 
+ChatPDF使用示例：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483809&idx=1&sn=4b78cacf54fba9c77976613cba1936d9&chksm=ce15e45df9626d4b5d9403571da6ef9a2f41f6d7363f2208933ce1513b62ab437747f59eacb7#rd
+
 
 
 ## 第18章 用ChatGPT画流程图
@@ -828,11 +834,19 @@ https://zhuanlan.zhihu.com/p/618796883
 
 
 
-## 第21章 Chrome上5款好用的ChatGPT插件
+## 第21章 Chrome上好用的ChatGPT插件
+
+### 5款好用的ChatGPT插件
 
 https://www.youtube.com/watch?v=JTPzbP_q4W0
 
 ps. 中文视频
+
+
+
+### OpenAI Translator——翻译神器
+
+https://github.com/yetone/openai-translator
 
 
 
@@ -869,6 +883,26 @@ https://huggingface.co/spaces/anzorq/chatgpt-demo
 体验了一把MiniGPT-4，一言难尽：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483696&idx=1&sn=996e9b80268f5689ff496b072dd25e4a&chksm=ce15e4ccf9626dda4c2520bf6dc14554b84e931b61cda4d3ff4a7b0af11023353b36f098150d#rd
 
 来自微软和浙大的Jarvis：ChatGPT也有队友了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483714&idx=1&sn=0b9b0f88c6b391d87e1a6d497ff8387e&chksm=ce15e4bef9626da88b80809d36b0f609011474fb6c14a6a3943c21aa35096e2c142ccfdf641e&token=338987574&lang=zh_CN#rd
+
+
+
+一个白嫖ChatGPT4的方法：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483735&idx=1&sn=e15e64e56d9df97fd67379500433f348&chksm=ce15e4abf9626dbdc32bd227c1b3feb018874589d1d914301231638c020ba84c348d289e61eb#rd
+
+
+
+OpenAI Translator：翻译神器，秒杀其他翻译软件：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483760&idx=1&sn=4850e0ef8f330165be8762b03c90df49&chksm=ce15e48cf9626d9ae692e920553d39da493df703dd1b9ff1130339c6b5d88adc8e479b5c95e7#rd
+
+
+
+只需4步，就能把ChatGPT训练成写作能手：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483767&idx=1&sn=edd283abfaa8e551939a71eefd6f9714&chksm=ce15e48bf9626d9ddaa00a204f069829c90f5ac733cab3c5e17f5d8813293e4215a3ef082116#rd
+
+
+
+ChatPDF，一分钟学完PDF：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483809&idx=1&sn=4b78cacf54fba9c77976613cba1936d9&chksm=ce15e45df9626d4b5d9403571da6ef9a2f41f6d7363f2208933ce1513b62ab437747f59eacb7#rd
+
+
+
+用了这款AI神器，再也不担心ChatGPT胡说八道了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483823&idx=1&sn=d22f0e453f2c4939eff54b69f16c9217&chksm=ce15e453f9626d45e2c04c7f675fb789aa562b5dc58b61c3dd255344e14c95acd9e3963f08d1#rd
 
 
 
