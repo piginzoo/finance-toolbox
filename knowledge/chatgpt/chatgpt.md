@@ -1,8 +1,13 @@
 # ChatGPT中文手册大全
 
-建了一个微信群，大家一起学习ChatGPT，一起分享资源。
+我建了一个ChatGPT学习群：
 
-**不收钱，免费加入！**入群加我微信，我拉你
+- **不收钱，免费加入**
+
+- **群里可以免费使用ChatGPT**
+- 大家一起学习，一起分享资源，**一起研究赚钱**
+
+入群加我微信，我拉你
 
 ![](/images/chatgpt/syw.jpg)
 
@@ -94,6 +99,12 @@ Bing的限制器太多了，回答有諸多限制
 
 
 
+问：GPT-4能免费用吗？
+
+官方的不能免费用。免费的可以看这个，可能目前免费额度最多的了——https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483735&idx=1&sn=e15e64e56d9df97fd67379500433f348&chksm=ce15e4abf9626dbdc32bd227c1b3feb018874589d1d914301231638c020ba84c348d289e61eb#rd
+
+
+
 ## 第4章 注册ChatGPT全攻略
 
 https://mirror.xyz/boxchen.eth/9O9CSqyKDj4BKUIil7NC1Sa1LJM-3hsPqaeW_QjfFBc
@@ -102,13 +113,36 @@ ps. 建议先用上面哪些国内的
 
 
 
-## 第5章 ChatGPT Plus注册全攻略
+## 第5章 快速了解ChatGPT Plus
+
+ChatGPT Plus和ChatGPT相比，ChatGPT plus：
+
+- 模型规模更大，参数数量超过6万亿，比ChatGPT大很多
+- 训练数据更丰富，包括不同语言、领域和类型的数据
+- 语言理解和生成能力更强，能够更准确地理解和生成文本
+- 可解释性和可控性更好，支持更多的调参和控制参数，生成文本时提供更多的解释和提示
+- 隐私保护和可持续性更高，采用更多的加密和去中心化技术，避免了传统语言模型存在的隐私和环境问题
+
+总之，ChatGPT plus在各个方面都有明显的优势，但其也需要更多的计算资源和时间来训练和使用，并且可能存在一些负面影响，例如响应速度会慢一点。相比之下，ChatGPT则适合在处理小型数据集和特定领域的语言任务时使用，但在处理复杂的语言环境和多模态数据时可能表现较差。
+
+
+
+ChatGPT Plus适用于：
+
+- 需要高度准确性和自然度的企业用户，例如客服中心和企业助手。
+- 需要处理多语言文本的用户。
+- 需要处理特定领域语言和术语的用户。
+- 具有充足计算资源的用户。
+
+
+
+## 第6章 ChatGPT Plus注册全攻略
 
 https://mirror.xyz/boxchen.eth/fi-WPM78UeTRwo_r3rNZesrZ_hfQfFltkOT2kb9k6Jk
 
 
 
-## 第6章 ChatGPT的提示
+## 第7章 ChatGPT的提示
 
 ### ChatGPT提示学习教程
 
@@ -119,6 +153,18 @@ https://learningprompt.wiki/docs/chatgpt-learning-path
 ### 只需4步，把ChatGPT训练成写作能手
 
 https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483767&idx=1&sn=edd283abfaa8e551939a71eefd6f9714&chksm=ce15e48bf9626d9ddaa00a204f069829c90f5ac733cab3c5e17f5d8813293e4215a3ef082116#rd
+
+
+
+### 建议收藏：分享一些对ChatGPT提问的例子
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483837&idx=1&sn=f2916f564b0c2a327b631c43eb38c1ce&chksm=ce15e441f9626d57c7c42b866751aaba6b417cb197969ba5d9160369b45258fe877fab84ff6b#rd
+
+
+
+### 两个神奇的ChatGPT指令，95%的人都不知道
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483910&idx=1&sn=ae4092b56fba2cedd5fa3249248de5c7&chksm=ce15e7faf9626eeca6e1739514d45616674c3d0b85aa3e27ae63a627bc827edf05a47947c45c#rd
 
 
 
@@ -676,19 +722,19 @@ ps. 用好提示词和调教AI的套路，必看好文
 
 
 
-## 第7章 ChatGPT是怎样被训练出来的？
+## 第8章 ChatGPT是怎样被训练出来的？
 
 https://www.bilibili.com/video/BV1BG4y137SH/
 
 
 
-## 第8章 ChatGPT个人使用场景分享
+## 第9章 ChatGPT个人使用场景分享
 
 https://hubeiqiao.notion.site/ChatGPT-c13f60d4adc14eb0ae73a58dca3a54af
 
 
 
-## 第9章 用ChatGPT搞钱
+## 第10章 用ChatGPT搞钱
 
 想用ChatGPT搞钱？没那么简单。小心钱没赚到，反而被别人隔了韭菜。
 
@@ -738,19 +784,19 @@ https://www.bilibili.com/video/BV1zs4y1Z7WA
 
 
 
-## 第10章 ChatGPT能做的49件事
+## 第11章 ChatGPT能做的49件事
 
 ![](/images/chatgpt/49.png)
 
 
 
-## 第11章 ChatGPT改变人的阅读方式
+## 第12章 ChatGPT改变人的阅读方式
 
 https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F%E5%90%97%EF%BC%9F/%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E9%98%85%E8%AF%BB%E6%96%B9%E5%BC%8F%E5%90%97%EF%BC%9F
 
 
 
-## 第12章 用ChatGPT改简历、提高面试邀请率
+## 第13章 用ChatGPT改简历、提高面试邀请率
 
 下面是一名外国兄弟的经历：
 
@@ -778,13 +824,13 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 
 
-## 第13章 如何让GPT4写出更生动的故事
+## 第14章 如何让GPT4写出更生动的故事
 
 ![](/images/chatgpt/story.png)
 
 
 
-## 第14章 用ChatGPT创作歌曲
+## 第15章 用ChatGPT创作歌曲
 
 用ChatGPT模仿李荣浩写一首歌：https://www.bilibili.com/video/BV1k24y1W7FK
 
@@ -794,7 +840,7 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 
 
-## 第15章 重度使用ChatGPT心得
+## 第16章 重度使用ChatGPT心得
 
 https://twitter.com/0x_Todd/status/1640710775697444866
 
@@ -802,13 +848,13 @@ ps. 内容是中文的，放心。
 
 
 
-## 第16章 用ChatGPT辅助做Codeforces
+## 第17章 用ChatGPT辅助做Codeforces
 
 https://zhuanlan.zhihu.com/p/614608835
 
 
 
-## 第17章 提高阅读PDF的效率
+## 第18章 提高阅读PDF的效率
 
 ChatPDF——上传pdf，然后你就可以基于pdf的内容去提问了：https://www.chatpdf.com/
 
@@ -816,25 +862,31 @@ ChatPDF使用示例：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247
 
 
 
-## 第18章 用ChatGPT画流程图
+## 第19章 用ChatGPT画流程图
 
 https://zhuanlan.zhihu.com/p/623026095
 
 
 
-## 第19章 用ChatGPT制作PPT
+## 第20章 用ChatGPT制作PPT
 
 https://zhuanlan.zhihu.com/p/618679097
 
 
 
-## 第20章 用ChatGPT快速批量生成短视频
+## 第21章 用ChatGPT快速批量生成短视频
 
 https://zhuanlan.zhihu.com/p/618796883
 
 
 
-## 第21章 Chrome上好用的ChatGPT插件
+## 第22章 用ChatGPT辅助科研
+
+https://zhuanlan.zhihu.com/p/618795297
+
+
+
+## 第23章 Chrome上好用的ChatGPT插件
 
 ### 5款好用的ChatGPT插件
 
@@ -850,7 +902,7 @@ https://github.com/yetone/openai-translator
 
 
 
-## 第22章 基于ChatGPT的有意思小产品
+## 第24章 基于ChatGPT的有意思小产品
 
 https://www.bilibili.com/video/BV1Dd4y1e76j/
 
@@ -866,7 +918,7 @@ https://www.bilibili.com/video/BV1Dd4y1e76j/
 
 
 
-## 第23章 ChatGPT API Demo
+## 第25章 ChatGPT API Demo
 
 ChatGPT API 由 OpenAI 广受欢迎的 ChatGPT 背后的相同人工智能模型提供支持，该模型被称为“gpt-3.5-turbo”。
 GPT-3.5是 OpenAI 目前通过其 API 套件提供的最强大的文本生成模型；“turbo”绰号指的是GPT-3.5 的优化、响应速度更快的版本，OpenAI 一直在为 ChatGPT 悄悄测试它。
@@ -878,9 +930,11 @@ https://huggingface.co/spaces/anzorq/chatgpt-demo
 
 
 
-## 第24章 体验评测
+## 第26章 体验评测
 
 体验了一把MiniGPT-4，一言难尽：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483696&idx=1&sn=996e9b80268f5689ff496b072dd25e4a&chksm=ce15e4ccf9626dda4c2520bf6dc14554b84e931b61cda4d3ff4a7b0af11023353b36f098150d#rd
+
+
 
 来自微软和浙大的Jarvis：ChatGPT也有队友了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483714&idx=1&sn=0b9b0f88c6b391d87e1a6d497ff8387e&chksm=ce15e4bef9626da88b80809d36b0f609011474fb6c14a6a3943c21aa35096e2c142ccfdf641e&token=338987574&lang=zh_CN#rd
 
@@ -902,11 +956,98 @@ ChatPDF，一分钟学完PDF：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==
 
 
 
-用了这款AI神器，再也不担心ChatGPT胡说八道了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483823&idx=1&sn=d22f0e453f2c4939eff54b69f16c9217&chksm=ce15e453f9626d45e2c04c7f675fb789aa562b5dc58b61c3dd255344e14c95acd9e3963f08d1#rd
+用了Perplexity AI，再也不担心ChatGPT胡说八道了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483823&idx=1&sn=d22f0e453f2c4939eff54b69f16c9217&chksm=ce15e453f9626d45e2c04c7f675fb789aa562b5dc58b61c3dd255344e14c95acd9e3963f08d1#rd
 
 
 
-## 第25章 深度文章
+EdrawMind帮你一分钟做出思维导图：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483856&idx=1&sn=2f9931cb82c55ac471ab8bee809cac5f&chksm=ce15e42cf9626d3a8aadf47ed6e9f2ae480288715ed2bb7a85cc1db855bc43c448a793bd86cc#rd
+
+
+
+犹豫不决，让Rationale来帮你理性分析一下：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483910&idx=1&sn=ae4092b56fba2cedd5fa3249248de5c7&chksm=ce15e7faf9626eeca6e1739514d45616674c3d0b85aa3e27ae63a627bc827edf05a47947c45c#rd
+
+
+
+DragGAN开源代码了，修图效果炸裂！
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483941&idx=1&sn=3ea65741b201b91205e662bf63961df7&chksm=ce15e7d9f9626ecffc3fe075e8133a4f3017572058f57fd4477cde7c8b1a5495c2a1845f3094#rd
+
+
+
+## 第27章 **ChatGPT Plugins**
+
+ChatGPT Plugins数量涨的非常快，这里有每个plugin的介绍。
+
+https://aix4u.notion.site/e338c1e19b1e4304b19cfc48ee05ce8b?v=1b0549df511847afa476126298008535
+
+
+
+## 第28章 优质课程
+
+### 吴恩达AI课程
+
+每门课程都1小时左右
+
+1、面向开发的ChatGPT提示工程
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+比b站上的视频好多了，有讲义、有代码、有运行环境，可以动手练习。
+2、用ChatGPT API构建系统
+https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction
+3、用LangChain开发LLM应用
+https://learn.deeplearning.ai/langchain/lesson/1/introduction
+4、Diffusion模型工作原理
+https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction
+
+
+
+### 介绍你全面深度认识ChatGPT
+
+https://www.youtube.com/watch?v=M5al3DqKdfI
+
+作者：祝文菁 - 美国硅谷技术战略专家
+
+包括三部分内容：（1）深入浅出介绍什么是ChatGPT，ChatGPT的技术原理，（2）如何正确的看待评估ChatGPT，（3）未来的AI技术和应用展望。
+
+时长2小时，全程讲的深入浅出、通俗易懂。
+
+
+
+### Stable Diffusion生成视频
+
+一套非常齐全的Stable Diffusion生成视频的教程，并展示了不同流程生成的视频效果。包括：
+ControlNet-M2M script
+ControlNet img2img
+Mov2mov extension
+EbSynth
+Deforum
+Stable WarpFusion
+教程地址：https://stable-diffusion-art.com/video-to-video/
+
+
+
+### OpenAI Andrej 的模型训练介绍
+
+40分钟的视频，讲的非常清晰。
+地址：https://www.bilibili.com/video/BV1ts4y1T7UH/
+新增PPT：https://karpathy.ai/stateofgpt.pdf
+B站网友的笔记总结：https://www.bilibili.com/opus/801106306601582596
+
+
+
+### 利用 GPT-4、DALL.E 2和ChatGPT构建AI应用
+
+https://coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4
+
+
+
+### 使用Midjourney一键换脸
+
+**Bear Liu**分享的教程：利用MidJourney的AI服务InsightFace，在Discord上一键换脸。
+地址：https://twitter.com/bearbig/status/1663877484146720769
+
+
+
+## 第29章 深度文章
 
 AI大模型创业的生死5问：https://mp.weixin.qq.com/s/awbpnSJfJFtnPdhdC0OAjw
 
@@ -916,13 +1057,13 @@ ChatGPT在做什么...为什么它能够成功：https://zhuanlan.zhihu.com/p/60
 
 
 
-## 第26章 Midjourney 学习导航
+## 第30章 Midjourney 学习导航
 
 https://learningprompt.wiki/docs/midjourney-learning-path
 
 
 
-## 第27章 AI工具资源
+## 第31章 AI工具资源
 
 ### AI工具导航
 
@@ -934,164 +1075,105 @@ AI Tools：https://doc.clickup.com/37456139/d/h/13q28b-164/972da0c0d0a4eb8
 
 ### 编程工具列表
 
-1. Tabnine: https://www.tabnine.com/
-2. OpenAI Codex: https://openai.com/blog/openai-codex/
-3. GitHub Copilot: https://github.com/features/copilot
-4. AI Commit: https://github.com/abi/autocommit
-5. DeepCode: https://www.deepcode.ai/
-6. AI2Sql: https://www.ai2sql.io/
-7. Replit: https://replit.com/site/ghostwriter
-8. Akkio: https://www.akkio.com/
-9. Httpie: https://httpie.io/blog/ai
-10. Mutable: https://mutable.ai/
-11. Sheetplus: https://sheetplus.ai/
-12. ExcelFormulaBot: https://excelformulabot.com/
+1. GitHub Copilot: https://github.com/features/copilot 让AI和你一起结对编程。
+2. Tabnine: https://www.tabnine.com/ 根据上下文和语法，预测并建议您的下一行代码。
+3. OpenAI Codex: https://openai.com/blog/openai-codex/ 和ChatGPT是一家子，可以将自然语言翻译成代码。
+4. Amazon CodeWhisperer: https://aws.amazon.com/cn/codewhisperer/ 通过代码生成、参考跟踪和安全扫描来加速和增强软件开发。
+5. Cursor: https://www.cursor.so/ 由OpenAI提供技术支持的，AI代码编辑器。
+6. Httpie: https://httpie.io/ai 一种与API交互的新方式，使用自然语言创建请求。
+7. AI2Sql: https://www.ai2sql.io/ 将自然语言生成快速、高效且无误的SQL语句。
+8. AI Query: https://aiquery.co/ 和楼上类似。
+9. Quest: https://www.quest.ai/ 利用AI把设计生成ReactJS代码。
+10. JamGPT: https://jam.dev/jamgpt 报告一个bug，让AI调试助手找出问题原因和解决方案。
+11. HeyCLI: https://www.heycli.com/ 将自然语言翻译为终端命令。
+12. DocuWriter: https://www.docuwriter.ai/ 从源代码生成代码文档、测试和优化。
+13. Bloop: https://bloop.ai/ 一款开发者助手，使用GPT-4来回答有关你代码库的问题。可以通过自然语言、正则表达式和过滤查询搜索本地和远程存储库。
 
 
 
 ### 日常办公工具列表
 
-1. Notion AI: https://www.notion.so/product/ai
-2. Craft: https://www.craft.do/
-3. Mem: https://mem.ai/
-4. Taskade: https://www.taskade.com/
-5. You: https://you.com/
-6. Todoist: https://todoist.com/integrations/apps/ai-assistant
+1. Notion AI: https://www.notion.so/product/ai 国外知名协作文档平台Notion推出的AI写作助手，可以帮用户写作、集思广益、编辑、总结文档等。
+2. EdrawMind: https://www.edrawmind.com/ 输入中心主题之后，可以一键AI做出思维导图。
+3. MindShow: https://www.mindshow.fun/ 输入内容，自动生成PPT，多种主题、布局随意切换。
+4. SheetPlus: https://sheetplus.ai/ Google Sheets和Excel表格的AI处理工具。
+5. ChatPDF: https://www.chatpdf.com/ 辅助用户快速学习PDF，目前用的是GPT3.5。
+6. ChatDOC: https://chatdoc.com/ 文档阅读工具，和楼上类似。
 
 
 
 ### 写作工具列表
 
-1. Copy AI : https://www.copy.ai/
-2. Jasper: https://www.jasper.ai/
-3. WriteSonic: https://writesonic.com/
-4. ChatGPT3: https://chat.openai.com/
-5. Headlime: https://headlime.com/
-6. PepperType: https://peppertype.ai/
-7. MarkCopy: https://www.markcopy.ai/
-8. Quillbot: https://quillbot.com/
-9. Rytr: https://rytr.me/
-10. MoonBeam: https://www.gomoonbeam.com/
-11. Simplified : https://simplified.com/ai-writer/
-12. Lex Page: https://lex.page/
-13. Copy Smith: https://copysmith.ai/
-14. Subtxt: https://subtxt.app/
-15. Ellie Email Assistant: https://tryellie.com/
-16. Wordtune: https://www.wordtune.com/
-17. Sudowrite: https://www.sudowrite.com/
-18. Novel: https://novelai.net/
-19. Compose: https://www.compose.ai/
+1. Copy AI : https://www.copy.ai/ 帮助各行各业的撰稿人、营销人员和企业快速的创建高质量内容。
+2. Jasper: https://www.jasper.ai/ 国外很有名的写作工具，模板丰富，可以用AI辅助你写博客、文章、书、剧本等。
+3. MoonBeam: https://www.gomoonbeam.com/ 长篇内容的AI写作助手。
+4. Novel AI: https://novelai.net/ 能创作高质量的文学作品。
+5. Jenni: https://jenni.ai/ 擅长写研究论文，特色：自动完成句子、抄袭检查、添加索引、修改润色。
+6. Compose: https://www.compose.ai/ 一款辅助写作的Chrome插件。
 
 
 
-### 图像生成处理工具列表
+### 图像工具列表
 
-1. Profile Picture: https://www.profilepicture.ai/
-2. Photosonic: https://photosonic.writesonic.com/
-3. Remove BG: https://www.remove.bg/
-4. Artbreeder: https://www.artbreeder.com/
-5. Magiceraser: https://magicstudio.com/magiceraser
-6. Krea: https://www.krea.ai/
-7. Lexica: https://lexica.art/
-8. Removal: https://removal.ai/
-9. Image Enlarger: https://imglarger.com/
-10. Watermark Removal : https://www.watermarkremover.io/
-11. Rodebudai: https://www.rosebudai.com/
-12. Hypotenuse: https://www.hypotenuse.ai/
-13. Nyx: https://nyx.gallery/
-14. AI Avatar: https://avatarai.me/
-15. Cutout Pro: https://www.cutout.pro/
-16. Passport Photo: https://passphoto.ai/
-17. Picso: https://picso.ai/
-18. Playground: https://www.playgroundai.com/
-19. Runway: https://runwayml.com/
-20. Profile Pic Maker: https://pfpmaker.com/
-21. HotPot: https://hotpot.ai/
-22. Mage: https://www.mage.space/
+1. Midjourney: https://www.midjourney.com/ 火到无需介绍。
+2. stable diffusion: https://stablediffusionweb.com/ 还是火到无需介绍。
+3. DALL·E 2https://openai.com/dall-e-2 OpenAI出的，根据文本描述创建原创、逼真的图像和艺术作品。
+4. Bing Image Creater: https://cn.bing.com/create 微软必应推出的基于DALL·E的AI图像生成工具。
+5. Adobe Firefly: https://firefly.adobe.com/ 功能很强大，最近也比较火。
+6. Remove BG: https://www.remove.bg/zh 图片背景消除工具。
 
 
 
-### 市场营销工具列表
+### 视频工具列表
 
-1. Frase: https://www.frase.io/
-2. Bertha: https://bertha.ai/
-3. ContentEdge: https://www.contentedge.com/
-4. Hemingwayapp: https://hemingwayapp.com/
-5. Surfer SEO: https://surferseo.com/
-6. Ponzu: https://www.ponzu.ai/
-7. Jasper: https://www.jasper.ai/
-8. Copy Smith: https://copysmith.ai/
-9. PepperType: https://peppertype.ai/
-10. Scalenut: https://www.scalenut.com/
-11. Mutiny: https://www.mutinyhq.com/
-12. Simplified : https://simplified.com/ai-writer/
-13. MoonBeam: https://www.gomoonbeam.com/
-14. Smartly: https://www.smartly.io/
-15. Seventh Sense: https://www.theseventhsense.com/
-16. Copy AI : https://www.copy.ai/
-17. MarketMuse: https://www.marketmuse.com/
-18. WriteSonic: https://writesonic.com/
-19. Phrasee: https://phrasee.co/
-
-
-
-### 销售工具列表
-
-1. Creatext: https://www.creatext.ai/
-2. Exceed: https://exceed.ai/
-3. Creaitor: https://www.creaitor.ai/
-4. Twain: https://www.usetwain.com/
-5. Lavender: https://www.lavender.ai/
-6. Regie: https://www.regie.ai/
-7. People: http://people.ai/
-8. Smartwriter: https://www.smartwriter.ai/
-9. Octane: https://www.octaneai.com/
-10. Warmer: http://warmer.ai/
-
-
-
-### 演讲工具列表
-
-1. Resemble: https://www.resemble.ai/
-2. Broadn: https://www.broadn.io/
-3. Podcast: https://podcast.ai/
-4. Fliki: https://fliki.ai/
-5. Wellsaidlabs: https://wellsaidlabs.com/
-6. Voicemod: https://www.voicemod.net/ai-voices/
-7. Otter: https://otter.ai/
-8. TLDR This: https://tldrthis.com/
-9. Glasp AI: https://glasp.co/ai-summary
-10. Sembly: https://www.sembly.ai/
-11. Summari: https://www.summari.com/products/chrome
-12. Coqui: https://coqui.ai/
+1. Runway: https://runwayml.com/ 强大的视频制作工具，它的AI Magic Tools提供了数十种工具。
+2. D-ID: https://www.d-id.com/ 可以从文本创建真人口播视频。
+3. Fliki: https://fliki.ai/ 使用真实的语音从脚本或博客文章中生成视频。
+4. Synthesia: https://www.synthesia.io/ 将纯文本生成专业视频，有上百种AI虚拟人。
+5. 腾讯智影: https://zenvideo.qq.com/ 出自腾讯，提供多种能力：数字人、文本配音、文本转视频、添加字幕。
+6. Wonder Studio: https://wonderdynamics.com/ AI自动为CG角色制作动画、打光，并将其合并到真人场景中。
 
 
 
 ### 设计工具列表
 
-1. Diagram: https://diagram.com/
-2. Vizcom: https://www.vizcom.ai/
-3. Namelix: https://namelix.com/
-4. Aragon: https://www.aragon.ai/
-5. Interior Design: https://interiorai.com/
-6. Visualize: https://visualise.ai/
-7. Lexica: https://lexica.art/
-8. Poly: https://poly.ai/
-9. Looka: https://looka.com/
-10. Stock AI: https://stockimg.ai/
+1. LogoAi: https://www.logoai.com/ AI设计logo。
+2. AI Logo: https://ailogo.qq.com/ 腾讯出的AI设计logo。
+3. Vizcom: https://www.vizcom.ai/ 通过AI，把手绘图渲染转化产品设计图。
+4. Magician: https://magician.design/ Figma插件，AI生成图标、图片、UX文案。
+5. Flair: https://flair.ai/ 为产品生成各种场景下的产品照片。
+6. Galileo AI: https://www.usegalileo.ai/ 从简单的文本描述中创建美妙的、可编辑的UI设计。
 
 
 
 ### 聊天机器人工具列表
 
-1. Landbot: https://landbot.io/
-2. Cresta: https://cresta.com/
-3. Kaizan: https://kaizan.ai/
-4. WotNot: https://wotnot.io/
-5. Cohere: https://cohere.ai/
-6. Tidio: https://www.tidio.com/
-7. Typewise: https://www.typewise.app/
-8. Quickchat: https://www.quickchat.ai/
+1. ChatGPT: https://chat.openai.com/ 一哥。
+2. Claude: https://www.anthropic.com/claude-in-slack 算是ChatGPT的死对头吧。
+3. Google Bard: https://bard.google.com/ 谷歌推出的。
+4. Poe: https://poe.com/ 集成了ChatGPT、Claude等多个聊天机器人。
+5. 文心一言: https://yiyan.baidu.com/ 百度出的。
+6. 通义千问: https://tongyi.aliyun.com/ 阿里出的，和百度一样，名字太难记，咋想出来的？
+7. Character.AI: https://www.character.ai/ 最近很热，用户可以在其平台上创建AI机器人并与之聊天，官方也创建了很多AI机器人，比如马斯克、拜登等。
+
+
+
+### 声音、演讲工具列表
+
+1. Whisper: https://openai.com/research/whisper 还是OpenAI出的，它在英语语音识别方面接近于人类水平的鲁棒性和准确性。
+2. Coqui: https://coqui.ai/ 为视频游戏、后期制作等提供直接情感生成的AI语音。
+3. Resemble: https://www.resemble.ai/ 在几秒钟内生成类似人声的逼真语音。
+4. Azure Speech: https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech 可定制的逼真语音生成器。
+5. Gladia: https://www.gladia.io/ 可以在10秒内将1小时的音频转录为文字。
+6. Uberduck: https://uberduck.ai/ 开源AI语音社区，可以从文本生成声音，有5000多种声音。
+7. Voice.ai: https://voice.ai/ 免费的实时语音变声器。
+
+
+
+### 搜索工具列表
+
+1. Perplexity AI: https://www.perplexity.ai/ 一款基于人工智能的搜索引擎，有点像ChatGPT+谷歌的结合体。提问之后，它会提供带有引用来源的答案。
+2. Phind: https://www.phind.com/ 为开发者打造的人工智能搜索引擎。
 
 
 
