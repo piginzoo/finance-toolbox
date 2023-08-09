@@ -4,7 +4,6 @@
 
 - **不收钱，免费加入**
 
-- **群里可以免费使用ChatGPT**
 - 大家一起学习，一起分享资源，**一起研究赚钱**
 
 入群加我微信，我拉你
@@ -13,21 +12,27 @@
 
 
 
-## 第1章 国内可用的ChatGPT网站列表
+## 前言 小白必看
 
-https://github.com/LiLittleCat/awesome-free-chatgpt
+如果你还不知道怎么访问ChatGPT，或者你还在花冤枉钱，建议你看看我自己的使用经验，这可能是全网最良心、最透明的经验分享了：
 
-https://lzw.me/x/chatgpt-sites/?type=all
+https://mp.weixin.qq.com/s/tp7mRSJfdH-ZoY9mOT8SRw
+
+
+
+## 第1章 国内可用的ChatGPT网站
+
+个人建议：优先用官网或者POE。如果都用不了，再往下看……
+
+这个网站不花钱就可以用，不知道谁做的，非常良心！
+
+https://c.binjie.fun
+
+建议用浏览器打开。
 
 
 
 ## 第2章 快速了解ChatGPT
-
-https://westudio-docs.oss-cn-beijing.aliyuncs.com/showdoc_e58ecf8153e9ac2ea2a3d2678c4a9fdf.pdf
-
-
-
-## 第3章 ChatGPT FAQ
 
 问：chatgpt 国内不开放注册吗？
 
@@ -99,21 +104,7 @@ Bing的限制器太多了，回答有諸多限制
 
 
 
-问：GPT-4能免费用吗？
-
-官方的不能免费用。免费的可以看这个，可能目前免费额度最多的了——https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483735&idx=1&sn=e15e64e56d9df97fd67379500433f348&chksm=ce15e4abf9626dbdc32bd227c1b3feb018874589d1d914301231638c020ba84c348d289e61eb#rd
-
-
-
-## 第4章 注册ChatGPT全攻略
-
-https://mirror.xyz/boxchen.eth/9O9CSqyKDj4BKUIil7NC1Sa1LJM-3hsPqaeW_QjfFBc
-
-ps. 建议先用上面哪些国内的
-
-
-
-## 第5章 快速了解ChatGPT Plus
+## 第3章 快速了解ChatGPT Plus
 
 ChatGPT Plus和ChatGPT相比，ChatGPT plus：
 
@@ -136,19 +127,13 @@ ChatGPT Plus适用于：
 
 
 
-## 第6章 ChatGPT Plus注册全攻略
+## 第4章 免费使用GPT-4的方法
 
-https://mirror.xyz/boxchen.eth/fi-WPM78UeTRwo_r3rNZesrZ_hfQfFltkOT2kb9k6Jk
-
-
-
-## 第7章 ChatGPT的提示
-
-### ChatGPT提示学习教程
-
-https://learningprompt.wiki/docs/chatgpt-learning-path
+官方的不能免费用。免费的可以看这个——https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247484023&idx=1&sn=21a64f2b0e896693dc9bf75e44b7d5fa&chksm=ce15e78bf9626e9d4734aa9b7be1da13b6e1af8f83ed96f5cb667ed8fb12a09639ac1b4e4c31#rd
 
 
+
+## 第5章 初学ChatGPT提示词
 
 ### 只需4步，把ChatGPT训练成写作能手
 
@@ -156,15 +141,60 @@ https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483767&idx=1&sn=edd283
 
 
 
-### 建议收藏：分享一些对ChatGPT提问的例子
-
-https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483837&idx=1&sn=f2916f564b0c2a327b631c43eb38c1ce&chksm=ce15e441f9626d57c7c42b866751aaba6b417cb197969ba5d9160369b45258fe877fab84ff6b#rd
-
-
-
 ### 两个神奇的ChatGPT指令，95%的人都不知道
 
 https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483910&idx=1&sn=ae4092b56fba2cedd5fa3249248de5c7&chksm=ce15e7faf9626eeca6e1739514d45616674c3d0b85aa3e27ae63a627bc827edf05a47947c45c#rd
+
+
+
+### 海报文案生成案例
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247484100&idx=1&sn=85083533137494623df4ec2b33036e86&chksm=ce15e738f9626e2efbbc97dcecfd7f58691ca438852311a1915f4211c90919269fe3b2ef12c7#rd
+
+
+
+### 一个非常实用的技巧：Chain of Thought
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247484109&idx=1&sn=2f6d8a32d1a549b4963a98651ed7b491&chksm=ce15e731f9626e279bd3f817babb5e619ae9d5323586fcd7f9eb750a5516eea9eaa53dccabce#rd
+
+
+
+## 第6章 提示词、提示工程教程
+
+### 提示词教程
+
+https://learningprompt.wiki/docs/chatgpt-learning-path
+
+
+
+### 提示工程教程
+
+https://www.promptingguide.ai/zh
+
+https://learnprompting.org/zh-Hans/docs/intro
+
+
+
+### 吴恩达大佬的课程
+
+面向开发的ChatGPT提示工程
+
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+比b站上的视频好多了，有讲义、有代码、有运行环境，可以动手练习。
+
+
+
+### 介绍人类该如何与LLM交互
+
+https://www.zhihu.com/column/c_1624986864754065408
+
+
+
+## 第7章 ChatGPT提示词例子
+
+### 一些对ChatGPT提问的例子
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483837&idx=1&sn=f2916f564b0c2a327b631c43eb38c1ce&chksm=ce15e441f9626d57c7c42b866751aaba6b417cb197969ba5d9160369b45258fe877fab84ff6b#rd
 
 
 
@@ -700,21 +730,9 @@ Please correct my grammar and spelling mistakes in the text above: I love eat fo
 
 
 
-### 学习提示的网站
-
-万字干货-ChatGPT 从零完全上手实操指南！：https://zhuanlan.zhihu.com/p/623911710
-
-ps. 用好提示词和调教AI的套路，必看好文
-
-
-
-学习提示工程：https://learnprompting.org/zh-Hans/docs/intro
+### 其他
 
 让生产力加倍的 ChatGPT 快捷指令：https://www.aishort.top/
-
-提示工程-介绍人类该如何与LLM交互：https://www.zhihu.com/column/c_1624986864754065408
-
-
 
 官方例子：https://platform.openai.com/examples
 
@@ -734,7 +752,219 @@ https://hubeiqiao.notion.site/ChatGPT-c13f60d4adc14eb0ae73a58dca3a54af
 
 
 
-## 第10章 用ChatGPT搞钱
+## 第10章 66个ChatGPT副业赚钱方法
+
+虽然 ChatGPT 可以大大简化你的工作，但是在进行副业赚钱之前，仍需要考虑以下几点：
+
+- 首先，了解你的技能和知识，选择一个适合自己的领域进行副业实践。
+- 其次，需要确保你有足够的时间和资源来完成任务。
+- 最后，需要明确你的定价策略，并向客户提供高质量的服务交付。
+
+总之，利用 ChatGPT 进行副业实践肯定可以让你获得额外的收入，并且能够利用你的技能和知识帮助他人。但是，仍需要谨慎对待，确保自己能够提供高质量的服务并与客户保持良好的沟通和合作。
+
+下面这些是我在网上收集了 66 种通过 ChatGPT 进行副业赚钱的小技巧，大部分估计已经过时了，有些方法也没那么容易，直接照搬需慎重，希望能给大家点参考。
+
+**1、代提问**
+这个与代写文章类似，区别就是写文章一般是直播引流，而这个更多的是闲鱼售卖引流，1 条 0.5-1 块，而且可以批发售卖，只要执行力强，虽然不多，但肯定能赚点。
+
+**2、星球回答**
+知识星球的用户是可以找星主和嘉宾提问的，如果星球粉丝量大，尤其是免费星球，星主想增加粉丝粘性，但是又没有太多时间，就可以用 ChatGPT 来辅助回答，甚至可以付费提问，比如 1 块 1 个。
+
+**3、技术支持**
+当你学会把 ChatGPT 部署到公众号、微信群、飞书等地方之后，大多数人看到了是用着玩，但是有商业嗅觉的人看到了，就会找你帮其部署，这个客单价可不低的。
+
+**4、代申请 API**
+API 其实就是接口的意思，部署到公众号、微信群、飞书必须用到，那有需求又不会申请的，当然是可以帮其有偿代申请喽。
+
+**5、开发软件**
+程序员可以给中小企业开发应用软件，提高企业办公效率。当然稍大的规模，可能得多人组团搞了。
+
+**6、倒卖设备**
+AI 绘画和 ChatGPT 对算力要求极高，需要大量运算，那相应的硬件必然跟着涨价，如果有资金可以先投入囤一批，等水涨船高的时候再卖，就像当年的囤内存一样，可能有人觉得这样不道德，不过咱们只赚点副业的小钱，肯定还没那没大的囤货实力。
+
+**7、短信服务商**
+由于大多数人自己注册，都需要接码平台弄虚拟号，所以如果能自己搭建一个接码平台，那肯定能赚一笔中间的服务费，不同地区注册价格也不一样，但 1个号赚 1 块钱很能赚不少，关键是量大。
+
+**8、付费专栏**
+公众号上有许多的付费专栏，这些比知识星球体量更轻，交付更快，也更好操作，不用长期运营，可以从一个具体的项目切入去尝试。
+
+**9、代提供短信服务**
+之前说过搭建接码平台，但是肯定不是一般人能搞出来的，大多数人都在搞账号、搞问答，那咱们也可以去帮助那些不会用接码平台的人，比如接码平台要 2块，你收客户 4 块，从中可以赚些差价。
+
+**10、知识星球**
+可以开一个免费的知识星球吸引粉丝，然后再开一个付费的星球，提供更高价值的信息，同时变现，做的好的头部，每年收益上百万。
+
+**11、付费群**
+现在不是有好多交流群么，既可以进免费群，到里面收指导费；也可以进付费群，里面的指导免费。如果有号源，还可以送号送资料。就是要注意交流内容，很容易被封控。
+
+**12、卖 Plus 号**
+咱们一般用户用普通号即可满足需求，但是普通号不稳定，无法满足需要超长时间使用的用户，比如微企业、个体户等。他们又不想租用，但是又不会申请，或者支付不了，那你就可以办好卡帮他们申请支付赚差价，现在价格炒的很高，但 Plus 对于个人其实真没太大用。
+
+**13、镜像站**
+咱们好多用户不会或不想登梯子，所以国内出现好多打着“最接近于 ChatGPT的应用”这样标语的软件或网站，程序员也很容易弄，因为其实就是接入 API，然后收月租费。人家官网一年烧 25 亿，咱们个人哪儿搞的起，有点挂羊头卖狗肉，所以不推荐这种无良的经营模式。
+
+**14、出书**
+记得前几天看有个纯拿 ChatGPT 出了本叫“革命”的书的大佬，纸质版都发行了，速度真是快。甚至亚马逊上都有不少标明就是 ChatGPT 出的电子版。完全可以弄个目录框架，让 ChatGPT 分段写，然后自己再整合排版，据说快的话，四个小时就出一本书，不过好像比较泛泛，可读性并不强。
+
+**15、卖课**
+可以整理一下 ChatGPT 的所有变现方法都列出来，然后出个课程，在各个平台售卖，教别人让他们选择合适的方式进行变现。 课程根据内容多少与渠道不同，价格从 99 到 999 不等。
+
+**16、写童话故事**
+ChatGPT 写童话故事最合适，因为经常一本正经的瞎编，至少不会太误导，而且比写书简单多了，但是目前咱们是要会用 ChatGPT 结合 AI 绘画来出童话绘本故事，这样才有人买，亚马逊上可以卖电子版。
+
+**17、卖模型**
+咱们之前总说代回答问题，其实使用 ChatGPT 时，会提问问题也是一门学问。就像你 AI 绘画写关键词的语法一样，人家说需要苏格拉底式的提问，提问是有逻辑递进顺序的，咱们可以研究一下各种情形下的提问模型，总结出来当课程售卖。因为好多人一开始都自我感觉良好，用用就知道自己都问不到点上，所以一定有很多人会买的，尤其是刚刚使用上的人。
+
+**18、导航站**
+现在咱们大家都热衷于玩 ChatGPT，但其实国内外已经有好几百个 AI 网站，文字出图的、文字出音频的、文字出视频的等等，有点搭建网站技术的人可以把这些链接都汇总起来，做一个导航网站，再做好 SEO 排行，流量很多，嵌入广告自然就有收益了。
+
+**19、开发小程序**
+之前说过为小微企业开发软件，其实程序员也可以挖掘大众需求自己做微信小程序、抖音小程序、APP 等，比如取名字的，算命的，文字游戏等小软件，不仅很容易，而且也是有市场的，说不定下一个爆火的就是你开发的。
+
+**20、提示工程师**
+现在网上流传一个提示工程师的岗位招聘介绍，据说年薪百万，就是不知道明年是否还能给这么多，不过这个职业应该还会有的，要是 AI 方面研究的比较深，可以兼职做这个。
+
+**21、文稿整理师**
+好多需要写文案的公司有招兼职文稿整理员的需求，而且还只招会用 ChatGPT的，比如让你用 ChatGPT 生产内容或翻译之后再修改通顺，每小时 40 块，有点像快餐店打零工，咱们有空闲时间的都可以去搞一下。
+
+**22、卖资料包**
+现在 ChatGPT 相关的课程、咨询、使用方法、调教方法网上一大堆，咱们不会技术、不会录课，能到还不会收集整理么？整理好了进行售卖，至少现阶段肯定卖的出去，这就是你用时间换钱，人家用钱换时间而已。
+
+**23、细分领域**
+现在大多数通过 ChatGPT 赚钱，都是停留在卖账号、教上网、学使用这个阶段。那么咱们能否提前布局一下你擅长的细分领域呢？比如用 ChatGPT 进行 WPS表格优化、写 AI 绘图的 prompt、优化文章逻辑或长度、递进式循环提问技巧等等。
+
+**24、投资**
+咱们好多人都喜欢炒股，可能一时能赚到，但是说实话，要是不懂投资，那就是赌博，早晚还会赔回去。其实真正总能从股市赚到钱的都是会长期投资的，因为长期回报率就是接近于 10%，但是学习投资体系不是一两天的事儿，咱们完全可以借助 ChatGPT 当你的投资顾问，有了问题直接问，加速学习。
+
+**25、理财**
+跟投资类似，理财一方面是包括投资，另一方面不仅限于投资。无论你是买股票基金，还是存钱买保险，甚至是日常花销，都属于理财范畴。学会花钱一样很重要。也是可以借助 ChatGPT 加速学习的。
+
+**26、自动客服**
+说实话，ChatGPT 的表达能力比好多人工客服及机器人客服好多了，所以懂接入的人完全可以利用业余时间，找到有这方面需求的公司帮助将 ChatGPT 接入到公司现有的系统中，然后顺便进行一些个性化开发，按需求大小、按件质量及人工时长进行合理收费。
+
+**27、检测系统**
+就像病毒与杀毒软件一样，有了想用 ChatGPT 为自己提供帮助的人，那就有不愿意用其帮助的人。比如写毕业论文，要是学生都用 ChatGPT 写，尤其是研究生要是都研究这个，都没什么创新了，那老师和学校肯定是不干啊。所以目前就有了检测系统，就是为了辨识作品是否是 ChatGPT 生成的。这个技术大佬们可以研究一下。
+
+**28、AI 出图**
+具体 AI 绘画出图怎么变现就不细说了，没有 ChatGPT 之前出图的 prompt 都是需要自己搜集，或者借助相应的 prompt 网站。现在有了 ChatGPT 那就省事多了，直接给 ChatGPT 发指令，就可以出 prompt 了，当然也需要有调教模型才会出的比较理想哈。
+
+**29、数据分析**
+ChatGPT 有强大的数据分析能力，可以将要分析的数据全都交给 ChatGPT，如果信息量太大，还可以用链接的方式让其去读网址里面的内容，然后按你的要求进行提炼、分析、梳理等工作。这样找到有分析需求的兼职，不就分分钟干完了。
+
+**30、翻译**
+ChatGPT 算是最智能的翻译工具了，普通的翻译语法方面经常是不通顺，利用ChatGPT 可以很好的进行翻译，它的水平介于工具翻译与人工翻译之间。可以做网站，也可以直接代翻译，而且可以翻译多种语音，收费可以比人工翻译便宜一些，那不想用人工翻译，又觉得工具翻译不咋地的，自然就会找你喽。
+
+**31、创作大纲**
+ChatGPT 只要给一个比较明确的需求，然后告诉它要大纲，那很快就能给列出来一个大纲。有的确实前期只需要大纲，所以大纲也是可以卖的。
+
+**32、电子邮件**
+ChatGPT 的自动回复电子邮件是一大特点，这对于使用电子邮件比较多、对邮件格式的艺术性有要求的公司，是比较实用的，可以卖邮件文案包。
+
+**33、数字藏品**
+对于 NFT，最早是手动生产，去年是借助 AI 绘画生成，现在 AI 绘画又可以借助 ChatGPT 生成了，真是速度越来越快。
+
+**34、网络小说**
+用 ChatGPT 直接写网络小说还是不太容易实现的，但是对于那些兼职、专职的网络小说作家来说，提供灵感还是很有帮助的，他们不是有字数要求么，如果要是没时间还可以水一些字数，哈哈。
+
+**35、写歌词**
+与写小说类似，直接用 ChatGPT 写出来的歌词也不太靠谱，但是对于作词家提供些灵感还是可以的。
+
+**36、视频脚本**
+这个也不用多说了，能生产文案，自然能生产视频脚本和视频描述这些东西，但是确实有专门通过这个赚钱的，自然可以利用 ChatGPT 提高 N 倍的效率。
+
+**37、SEO**
+咱们都知道 SEO 的重要作用，利用 ChatGPT 生成关键词，然后在通过 SEO 排行，那自然能够吸引被动搜索过来的粉丝来点击你喽。
+
+**38、出售账号**
+最初的变现就是自己注册账号然后找客户卖账号。 如果使用注册机，一天能够跑上万个账号。 不会注册，那就做中间商赚差价，一个账号单独买 20 多，赚个几块钱，一天上百账号，收益也不错。 目前看来视频号、小红书、贴吧都还容易引流，一是容易爆，二是感兴趣的多，三是付费能力高。引到私域后再转化。
+
+**39、试用赚钱**
+把 ChatGPT 接入企业微信或公众号等卖使用次数。 前 20 次免费，后面用 1次 0.5 块。目前很多人对这个感兴趣。 想办法让这些人知道你做这个项目，自然就可以变现了。
+
+**40、培训班**
+有淘金的人，自然就能卖牛仔裤。 有人想通过这个热点来赚钱但是不会做，那咱们就把用 ChatGPT 赚钱的方法列出来，开个培训班，只要有内容，想通过ChatGPT 赚钱的人自然就会学习。
+
+**41、API 接入**
+有不少人和公司想把 ChatGPT 接入到企微、飞书、钉钉等。 但如果自己不懂技术的话，就需要找程序员了，程序员可以看看网上的教程，比如 B 站，稍微研究一下就可以做这个项目来变现了，而且后期还免维护。
+
+**42、做网站**
+使用 ChatGPT 大量的生成内容，一天生成几万篇以上内容，然后把这些内容分类导入到网站里面。 然后再做 SEO 排名，在短时间之内，通过大量的内容输出，获得大量的排名和流量。只要网站起来，之后无论直接做项目变现、卖产品、卖服务都可以。
+
+**43、问答**
+拿百度举例，以前大家一般是使用搜索引擎，看到问题，然后搜索问题找答案。现在有了 ChatGPT，直接写上问题就行了，省去了搜索和筛选的时间，关键是准确率高达 95%。 多账号操作，一天赚个几百，一点问题没有。
+
+**44、生成短视频**
+使用 ChatGPT 直接生成想要的文案，导入到剪映，用图文成片功能 3 分钟就能做成原创短视频了。 做垂直高客单领域，一天做几百个短视频，账号矩阵，整个平台上那个领域都是你的短视频。 之前有人做公众号霸屏，专门做几千块的产品，一天发上万篇内容，直接把某个领域一网打进，一天十几万的收益。
+
+**45、数字人**
+现在的数字人在短视频里面跟真人很小。 甚至可以让数字人学习你觉得不错的真人，慢慢的数字人就有了这个人的面容和语气。 再用 ChatGPT 生产的原创内容，就能够做出更好的短视频了。
+
+**46、写文章**
+写商业热点文章、小红书文章、自媒体文章、跨境电商文章、朋友圈文章等。这个文章不止这几个，其实有很多种，需要哪类就写哪类。
+
+**47、做直播**
+有人使用数字人和 ChatGPT 做直播，甚至还能够进行互动，估计 ChatGPT 也能改变直播的行业了。 再继续发展下去，以后直播的时候，看到的人不知道是真是假了。
+
+**48、写程序**
+ChatGPT 很不可思议，甚至可以写程序，还能审程序错误，重复循环，最终编写一段完整的程序，效率极高。
+
+**49、讲故事**
+已经有做教育的人，通过 ChatGPT 产生的故事文案，加上自己上镜，开始做自媒体短视频了。 有了 ChatGPT，就算是从零开始做一个自媒体都是能够实现。一次做 10 个账号，就算是起来 5 个账号，一个账号一个月赚个 5 万块，5 个账号一个月就是 5 万块的收入。
+
+**50、聊天机器人**
+就是接入 API，搭建成智能聊天机器人，与自动客服类似，只是应用领域不太一样，这个更多的是陪聊。
+
+**51、做音频**
+ChatGPT 的文字生成能力，故事生成能力超强，可以生成大量的内容。 再加上配音神器，直接生成音频，然后上传到喜马拉雅等平台，去变现。
+
+**52、传播文档**
+这个就是自己将网上搜索到的跟 ChatGPT 有关的有价值的链接，汇总写到飞书上面。然后通过全网的各种渠道传播，能够让大家访问到你的链接。 同时文档里面贴上你的专栏收费二维码，这样看到的人多了之后，感兴趣的就会进行付费。
+
+**53、租 Plus 号**
+之前咱们说过卖普通号，缺点就是不稳定，米国白天咱们这边就是晚上，属于高峰时段（注册过 2 亿人次）很容易断。而 Plus 号，这个是每月 135 元专线，通道更稳定更快，新功能也能提前使用。咱们说过卖 Plus 号，而这个租 Plus号主要是针对普通号与 Plus 号之间需求的用户，就像拼单一样。一个账号价格是每天 4 块多的成本，可以赚一倍，可以多账号操作，只是这个风险也大要谨慎。
+
+**54、代写**
+咱们之前说过可以自己用 ChatGPT 来写文章，增长自己的公域粉丝。这个就是帮助别人写文章。因为有不少用户知道虽然知道 ChatGPT，但是不会用，却也想体验。而且咱们能高效率的输出，价格也不高，比如一篇 5 块这样。 当然去视频平台，也可以进行在线直播答题。
+
+**55、问题咨询**
+之前说的咨询是指问用户自身领域的问题，这个问题咨询指的是咨询 ChatGPT本身的使用问题，当您对相关的问题比较了解了，趁着大热可以做这个，要是不会还可以直接让 ChatGPT 替您回答。
+
+**56、海量问答**
+咱们之前说过专业领域问答，主要是为了建立垂直 IP。这个海量问答的逻辑是用极客等工具搜索热点问题，尤其是观看多而回答少的问题，不论专业是否垂直，多账号操作，每天回答到账号的极限，快速吸粉。
+
+**57、企业起名**
+之前说过给人起名，这个类似就是那些设计公司，可以借助 ChatGPT 提供灵感，给企业起名或者口号标语，延伸到 AI 绘画一起配合使用，还可以出商标 LOGO，而且有些 LOGO 相当的惊艳，可以批量出了之后挑选。
+
+**58、资格证**
+以后要是有提示工程师、投喂工程师等岗位了，那自然也会有相关的培训机构，甚至还有可能有职称，从业资格这些，咱们有能力的可以提前布局。
+
+**59、卖赚钱视频**
+这个就是做直播，然后给录下来，给你看他是怎么引流，什么话术，怎么赚钱，然后把视频卖给你。其实也是买课程的一种，只是算是流量很大很暴力的一种。
+
+**60、卖自家货**
+因为现在 ChatGPT 是个热点，所以搜索量很大，很多人蹭这个热点，比如说什么免费指导注册之类的，反正是先给你拉过来，然后再做淘客、微商优惠券返利那一套生意。
+
+**61、快速引流**
+这个其实不是为了马上赚钱，更多的是为了引流到私域，因为目前是个窗口期，谁也不知道哪天突然就会出台更严格的制度给封了，所以先引流过来，以后慢慢转化，比如建一个免费的星球，公众号之类的。
+
+**62、出海赚钱**
+咱们好多人是由于知道了 ChatGPT，才接触了外面的世界，所以咱们也可以顺带着出海赚外国人的钱。
+
+**63、商品推荐**
+自媒体要么是人带货，要么是货带人。之前说过的大多数写文案都是人带货，当然也可以货带人。怎么带呢，就是像那些知乎或者视频平台的测评达人、好物分享号那样，通过对货物的详细描述、润色和对比进行商品推荐，自然能够更快的大批量的出文案、视频，做起来号速度也更快了。
+
+**64、国内模型**
+由于 ChatGPT 的出现，国内有实力的公司，尤其是搜索类的都会很着急出台自己的产品。这个技术含量很高，基本都是科学家级别的在搞，咱们可以先关注一下，等出来产品之后，后面是否会出来不少相应的比如维护、调试、投喂、算力之类的兼职。
+
+**65、交友**
+想找另一半的，以前网聊的时候需要自己编笑话、情话、嘘寒问暖之类的，难倒了技术宅。现在咱们有了这个小助理，那肯定是对答如流，贴心到底了。正所谓找到好的另一半，等于少付出十年。当然咱们也得提高自己水平，真实心意，别搞骗人那套。
+
+**66、取代人类**
+其实变现方法千万种，总结起来也不多，写到最后就逗大家一乐吧。也许不久的将来咱们都被机器人压榨的没有生存空间需要殖民外星球了，也许像黑客帝国那样都躺着进元宇宙里面玩去了。
+
+
+
+## 第11章 用ChatGPT搞钱
 
 想用ChatGPT搞钱？没那么简单。小心钱没赚到，反而被别人隔了韭菜。
 
@@ -784,19 +1014,19 @@ https://www.bilibili.com/video/BV1zs4y1Z7WA
 
 
 
-## 第11章 ChatGPT能做的49件事
+## 第12章 ChatGPT能做的49件事
 
 ![](/images/chatgpt/49.png)
 
 
 
-## 第12章 ChatGPT改变人的阅读方式
+## 第13章 ChatGPT改变人的阅读方式
 
 https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F%E5%90%97%EF%BC%9F/%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E9%98%85%E8%AF%BB%E6%96%B9%E5%BC%8F%E5%90%97%EF%BC%9F
 
 
 
-## 第13章 用ChatGPT改简历、提高面试邀请率
+## 第14章 用ChatGPT改简历、提高面试邀请率
 
 下面是一名外国兄弟的经历：
 
@@ -824,13 +1054,13 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 
 
-## 第14章 如何让GPT4写出更生动的故事
+## 第15章 如何让GPT4写出更生动的故事
 
 ![](/images/chatgpt/story.png)
 
 
 
-## 第15章 用ChatGPT创作歌曲
+## 第16章 用ChatGPT创作歌曲
 
 用ChatGPT模仿李荣浩写一首歌：https://www.bilibili.com/video/BV1k24y1W7FK
 
@@ -840,7 +1070,7 @@ https://learningprompt.wiki/docs/insight/AI%20%E6%9C%89%E5%8F%AF%E8%83%BD%E6%94%
 
 
 
-## 第16章 重度使用ChatGPT心得
+## 第17章 重度使用ChatGPT心得
 
 https://twitter.com/0x_Todd/status/1640710775697444866
 
@@ -848,13 +1078,13 @@ ps. 内容是中文的，放心。
 
 
 
-## 第17章 用ChatGPT辅助做Codeforces
+## 第18章 用ChatGPT辅助做Codeforces
 
 https://zhuanlan.zhihu.com/p/614608835
 
 
 
-## 第18章 提高阅读PDF的效率
+## 第19章 提高阅读PDF的效率
 
 ChatPDF——上传pdf，然后你就可以基于pdf的内容去提问了：https://www.chatpdf.com/
 
@@ -862,31 +1092,31 @@ ChatPDF使用示例：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247
 
 
 
-## 第19章 用ChatGPT画流程图
+## 第20章 用ChatGPT画流程图
 
 https://zhuanlan.zhihu.com/p/623026095
 
 
 
-## 第20章 用ChatGPT制作PPT
+## 第21章 用ChatGPT制作PPT
 
-https://zhuanlan.zhihu.com/p/618679097
+https://zhuanlan.zhihu.com/p/608164693
 
 
 
-## 第21章 用ChatGPT快速批量生成短视频
+## 第22章 用ChatGPT快速批量生成短视频
 
 https://zhuanlan.zhihu.com/p/618796883
 
 
 
-## 第22章 用ChatGPT辅助科研
+## 第23章 用ChatGPT辅助科研
 
 https://zhuanlan.zhihu.com/p/618795297
 
 
 
-## 第23章 Chrome上好用的ChatGPT插件
+## 第24章 Chrome上好用的ChatGPT插件
 
 ### 5款好用的ChatGPT插件
 
@@ -902,7 +1132,7 @@ https://github.com/yetone/openai-translator
 
 
 
-## 第24章 基于ChatGPT的有意思小产品
+## 第25章 基于ChatGPT的有意思小产品
 
 https://www.bilibili.com/video/BV1Dd4y1e76j/
 
@@ -918,7 +1148,7 @@ https://www.bilibili.com/video/BV1Dd4y1e76j/
 
 
 
-## 第25章 ChatGPT API Demo
+## 第26章 ChatGPT API Demo
 
 ChatGPT API 由 OpenAI 广受欢迎的 ChatGPT 背后的相同人工智能模型提供支持，该模型被称为“gpt-3.5-turbo”。
 GPT-3.5是 OpenAI 目前通过其 API 套件提供的最强大的文本生成模型；“turbo”绰号指的是GPT-3.5 的优化、响应速度更快的版本，OpenAI 一直在为 ChatGPT 悄悄测试它。
@@ -930,51 +1160,93 @@ https://huggingface.co/spaces/anzorq/chatgpt-demo
 
 
 
-## 第26章 体验评测
+## 第27章 体验评测
 
-体验了一把MiniGPT-4，一言难尽：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483696&idx=1&sn=996e9b80268f5689ff496b072dd25e4a&chksm=ce15e4ccf9626dda4c2520bf6dc14554b84e931b61cda4d3ff4a7b0af11023353b36f098150d#rd
+### 体验了一把MiniGPT-4，一言难尽
 
-
-
-来自微软和浙大的Jarvis：ChatGPT也有队友了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483714&idx=1&sn=0b9b0f88c6b391d87e1a6d497ff8387e&chksm=ce15e4bef9626da88b80809d36b0f609011474fb6c14a6a3943c21aa35096e2c142ccfdf641e&token=338987574&lang=zh_CN#rd
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483696&idx=1&sn=996e9b80268f5689ff496b072dd25e4a&chksm=ce15e4ccf9626dda4c2520bf6dc14554b84e931b61cda4d3ff4a7b0af11023353b36f098150d#rd
 
 
 
-一个白嫖ChatGPT4的方法：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483735&idx=1&sn=e15e64e56d9df97fd67379500433f348&chksm=ce15e4abf9626dbdc32bd227c1b3feb018874589d1d914301231638c020ba84c348d289e61eb#rd
+### 来自微软和浙大的Jarvis：ChatGPT也有队友了
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483714&idx=1&sn=0b9b0f88c6b391d87e1a6d497ff8387e&chksm=ce15e4bef9626da88b80809d36b0f609011474fb6c14a6a3943c21aa35096e2c142ccfdf641e&token=338987574&lang=zh_CN#rd
 
 
 
-OpenAI Translator：翻译神器，秒杀其他翻译软件：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483760&idx=1&sn=4850e0ef8f330165be8762b03c90df49&chksm=ce15e48cf9626d9ae692e920553d39da493df703dd1b9ff1130339c6b5d88adc8e479b5c95e7#rd
+### 一个白嫖ChatGPT4的方法
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483735&idx=1&sn=e15e64e56d9df97fd67379500433f348&chksm=ce15e4abf9626dbdc32bd227c1b3feb018874589d1d914301231638c020ba84c348d289e61eb#rd
 
 
 
-只需4步，就能把ChatGPT训练成写作能手：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483767&idx=1&sn=edd283abfaa8e551939a71eefd6f9714&chksm=ce15e48bf9626d9ddaa00a204f069829c90f5ac733cab3c5e17f5d8813293e4215a3ef082116#rd
+### OpenAI Translator：秒杀其他翻译软件
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483760&idx=1&sn=4850e0ef8f330165be8762b03c90df49&chksm=ce15e48cf9626d9ae692e920553d39da493df703dd1b9ff1130339c6b5d88adc8e479b5c95e7#rd
 
 
 
-ChatPDF，一分钟学完PDF：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483809&idx=1&sn=4b78cacf54fba9c77976613cba1936d9&chksm=ce15e45df9626d4b5d9403571da6ef9a2f41f6d7363f2208933ce1513b62ab437747f59eacb7#rd
+### 只需4步，把ChatGPT训练成写作能手
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483767&idx=1&sn=edd283abfaa8e551939a71eefd6f9714&chksm=ce15e48bf9626d9ddaa00a204f069829c90f5ac733cab3c5e17f5d8813293e4215a3ef082116#rd
 
 
 
-用了Perplexity AI，再也不担心ChatGPT胡说八道了：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483823&idx=1&sn=d22f0e453f2c4939eff54b69f16c9217&chksm=ce15e453f9626d45e2c04c7f675fb789aa562b5dc58b61c3dd255344e14c95acd9e3963f08d1#rd
+### ChatPDF，一分钟学完PDF
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483809&idx=1&sn=4b78cacf54fba9c77976613cba1936d9&chksm=ce15e45df9626d4b5d9403571da6ef9a2f41f6d7363f2208933ce1513b62ab437747f59eacb7#rd
 
 
 
-EdrawMind帮你一分钟做出思维导图：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483856&idx=1&sn=2f9931cb82c55ac471ab8bee809cac5f&chksm=ce15e42cf9626d3a8aadf47ed6e9f2ae480288715ed2bb7a85cc1db855bc43c448a793bd86cc#rd
+### 用了Perplexity AI，再也不担心ChatGPT胡说八道了
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483823&idx=1&sn=d22f0e453f2c4939eff54b69f16c9217&chksm=ce15e453f9626d45e2c04c7f675fb789aa562b5dc58b61c3dd255344e14c95acd9e3963f08d1#rd
 
 
 
-犹豫不决，让Rationale来帮你理性分析一下：https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483910&idx=1&sn=ae4092b56fba2cedd5fa3249248de5c7&chksm=ce15e7faf9626eeca6e1739514d45616674c3d0b85aa3e27ae63a627bc827edf05a47947c45c#rd
+### EdrawMind帮你一分钟做出思维导图
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483856&idx=1&sn=2f9931cb82c55ac471ab8bee809cac5f&chksm=ce15e42cf9626d3a8aadf47ed6e9f2ae480288715ed2bb7a85cc1db855bc43c448a793bd86cc#rd
 
 
 
-DragGAN开源代码了，修图效果炸裂！
+### 犹豫不决，让Rationale来帮你分析一下
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483910&idx=1&sn=ae4092b56fba2cedd5fa3249248de5c7&chksm=ce15e7faf9626eeca6e1739514d45616674c3d0b85aa3e27ae63a627bc827edf05a47947c45c#rd
+
+
+
+### 用LangChain构建AI应用，关键是很快
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483929&idx=1&sn=21b96ed8d816c7da56180dcd5222c4fb&chksm=ce15e7e5f9626ef375fffd1b012c9454c9319a95419e42526fd494c85b1b2c50986421b8edf0#rd
+
+
+
+### DragGAN开源代码了，修图效果炸裂
 
 https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483941&idx=1&sn=3ea65741b201b91205e662bf63961df7&chksm=ce15e7d9f9626ecffc3fe075e8133a4f3017572058f57fd4477cde7c8b1a5495c2a1845f3094#rd
 
 
 
-## 第27章 **ChatGPT Plugins**
+### ChatGPT-Next-Web：快速部署一个自己的ChatGPT网页
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483974&idx=1&sn=819270812766b943438e39eecef98aca&chksm=ce15e7baf9626eac777f2c1997e3ffaf7826345c8582ebada27418bfdd7624935b6a16ef0285#rd
+
+
+
+### Claude 2，不愧是“ChatGPT最强竞争对手”
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247483990&idx=1&sn=f6c498d32f04f817fb335b64687f6b13&chksm=ce15e7aaf9626ebc606833b4f65e3a7f021bfe4340cc160f14aa6e83564aec3c2b7d3bbd8cfd#rd
+
+
+
+### 用AI工具做漂亮的二维码
+
+https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247484014&idx=1&sn=7af56bf727a101450ce37a0c15d4fcec&chksm=ce15e792f9626e8404825a779c95ce4a8fdfe74187fb49917dcdaf2cabdb5e5ec22bd5955f62&token=477028437&lang=zh_CN#rd
+
+
+
+## 第28章 **ChatGPT Plugins**
 
 ChatGPT Plugins数量涨的非常快，这里有每个plugin的介绍。
 
@@ -982,7 +1254,7 @@ https://aix4u.notion.site/e338c1e19b1e4304b19cfc48ee05ce8b?v=1b0549df511847afa47
 
 
 
-## 第28章 优质课程
+## 第29章 优质课程
 
 ### 吴恩达AI课程
 
@@ -1000,6 +1272,28 @@ https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction
 
 
 
+### AI论文精读系列
+
+李沐老师——深度学习经典、新论文逐段精读
+
+B站：https://space.bilibili.com/1567748478/channel/collectiondetail?sid=32744
+
+GitHub（包含视频和论文）：https://github.com/mli/paper-reading
+
+
+
+### 《动手学深度学习》
+
+Github：https://github.com/d2l-ai/d2l-zh
+
+44.9k stars足够有说服力了。
+
+电子书网址：http://zh.d2l.ai/
+
+B站视频：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+
+
+
 ### 介绍你全面深度认识ChatGPT
 
 https://www.youtube.com/watch?v=M5al3DqKdfI
@@ -1009,6 +1303,13 @@ https://www.youtube.com/watch?v=M5al3DqKdfI
 包括三部分内容：（1）深入浅出介绍什么是ChatGPT，ChatGPT的技术原理，（2）如何正确的看待评估ChatGPT，（3）未来的AI技术和应用展望。
 
 时长2小时，全程讲的深入浅出、通俗易懂。
+
+
+
+### 微软AI-For-Beginners
+
+微软出品的适合初学者的AI教程文字教程
+https://github.com/microsoft/AI-For-Beginners
 
 
 
@@ -1047,7 +1348,17 @@ https://coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4
 
 
 
-## 第29章 深度文章
+### AI30讲
+
+还在更新中……所有文章遵循简洁、简短的原则，力图把复杂的洞察用人话讲清楚。
+
+1、什么是AI的“智能涌现”，以及为什么理解它对创业者、从业者、普通人都价值巨大
+
+https://mp.weixin.qq.com/s?__biz=MzAxNTYwMzcyNw==&mid=2247484241&idx=1&sn=dfdc6e692f7669211b26fcd00dc5ce34
+
+
+
+## 第30章 深度文章
 
 AI大模型创业的生死5问：https://mp.weixin.qq.com/s/awbpnSJfJFtnPdhdC0OAjw
 
@@ -1055,15 +1366,21 @@ ChatGPT在做什么...为什么它能够成功：https://zhuanlan.zhihu.com/p/60
 
 万字长文，探讨关于ChatGPT的五个最核心问题：https://zhuanlan.zhihu.com/p/612028498
 
+没有思考过 Embedding，不足以谈 AI：https://zhuanlan.zhihu.com/p/643560252
+
+向量数据库：https://guangzhengli.com/blog/zh/vector-database/
+
+LangChain模块架构解析：https://www.bilibili.com/video/BV1214y1X7Aq
 
 
-## 第30章 Midjourney 学习导航
+
+## 第31章 Midjourney 学习导航
 
 https://learningprompt.wiki/docs/midjourney-learning-path
 
 
 
-## 第31章 AI工具资源
+## 第32章 AI工具资源
 
 ### AI工具导航
 
@@ -1089,6 +1406,8 @@ AI Tools：https://doc.clickup.com/37456139/d/h/13q28b-164/972da0c0d0a4eb8
 12. DocuWriter: https://www.docuwriter.ai/ 从源代码生成代码文档、测试和优化。
 13. Bloop: https://bloop.ai/ 一款开发者助手，使用GPT-4来回答有关你代码库的问题。可以通过自然语言、正则表达式和过滤查询搜索本地和远程存储库。
 
+除了ChatGPT之外，让程序员效率起飞的6个AI工具——https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODg2Nw==&mid=2247484033&idx=1&sn=0480aa536fedd899bc398780ad950107&chksm=ce15e77df9626e6b24041f32b543ba4a82397e3da0830b5e2da8162073644d790d3d062202d5#rd
+
 
 
 ### 日常办公工具列表
@@ -1101,6 +1420,10 @@ AI Tools：https://doc.clickup.com/37456139/d/h/13q28b-164/972da0c0d0a4eb8
 6. ChatDOC: https://chatdoc.com/ 文档阅读工具，和楼上类似。
 
 
+
+以下我熬夜整理的这份AI工具列表。整理的过程中，我看了上百款工具，实在是太多了，为了大家看着方便，所以每一类我就挑了一些列出来了，有些功能类似的就没一一列举。
+
+每一类里AI工具的排序，我自己靠感觉排的，没什么先后。
 
 ### 写作工具列表
 
