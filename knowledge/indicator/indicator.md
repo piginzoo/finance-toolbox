@@ -162,11 +162,11 @@ $$
 参：[1](https://zhuanlan.zhihu.com/p/78616686)，[2](https://cn.tradingview.com/support/solutions/43000619436/),[3](https://www.oanda.com/bvi-ft/lab-education/technical_analysis/average-foot/)
 
 
-## ATR
+# ATR
 
 ATR（Average True Rage），是指近N天真实波幅TR的算术平均值；
 
-而真实波幅TR，是这下面指标里面最大的一个：$$\max{}$$
+而真实波幅TR，是这下面指标（H1,H2,H3）里面最大的一个：$$\max{}$$
 - 今日最高价 - 今日最低价
 - \|今日最高价 - 昨日收盘价价\|
 - \|今日最低价 - 昨日收盘价价\|
