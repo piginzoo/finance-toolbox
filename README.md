@@ -7,7 +7,7 @@ description: 把自己金融理财中的知识都汇集到这里
 
 ## 股市指标
 
-- [金融日历表 - 东方财富](https://data.eastmoney.com/cjrl/default.html)
+- 金融日历：[东方财富](https://data.eastmoney.com/cjrl/default.html)，[金十日历](https://rili.jin10.com/)，[美股日历](https://www.dailyfxasia.com/calendar)
 - [A股历史市盈率](https://eniu.com/)
 - [A股TTM市盈率中位数](https://legulegu.com/stockdata/a-ttm-lyr)
 - [万得全A FED股债性价 - 韭圈儿](https://funddb.cn/site/fed)，也叫"万得全A风险溢价"，1个标准差外有风险，2个标准差是高风险
@@ -21,20 +21,25 @@ description: 把自己金融理财中的知识都汇集到这里
 ## 金融指标
 
 - [中债指数ChinaBond](https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN)
-- [中国十年期国债收益率](https://cn.investing.com/rates-bonds/china-10-year-bond-yield)
-- [美元指数](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml)，[人民币在岸汇率](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)
 - [人民银行公开市场业务](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/index.html)，[逆回购/MLF市场公告](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html)
 - [M1/M2](http://value500.com/M1.asp)
 - [Shibor](https://www.shibor.org/shibor/shibortrend/)[2](http://value500.com/Shibor.asp),[DR007](https://www.chinamoney.com.cn/chinese/mkdatapm/)[2](https://www.chinamoney.com.cn/chinese/bkfrr/)
-- [美股经济事件日历](https://www.dailyfxasia.com/calendar)
-- [美国十年期国债收益率](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)
-- [美联储利率](https://zh.tradingeconomics.com/united-states/interest-rate)
-- [美联储资产负债表](https://zh.tradingeconomics.com/united-states/central-bank-balance-sheet)
-- [黄金价格XAUUSD](https://www.dailyfxasia.com/gold-price)
-- [美元指数](https://www.dailyfxasia.com/us-dollar-index)
-- [铜价格](https://www.dailyfxasia.com/copper-price)
-- [原油价格](https://www.dailyfxasia.com/crude-oil)
-- [天然气价格](https://www.dailyfxasia.com/natural-gas)
+
+
+
+| 指标分类| 指标1    | 指标2 | ... | 
+| ----   |----     |----   |---- |
+| 国债    |[10年](https://cn.investing.com/rates-bonds/china-10-year-bond-yield) | [5年](https://cn.investing.com/rates-bonds/china-5-year-bond-yield)| [1年](https://cn.investing.com/rates-bonds/china-1-year-bond-yield)|
+| 美债   | [10年](https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield)|[5年](https://cn.investing.com/rates-bonds/u.s.-5-year-bond-yield)|[1年](https://cn.investing.com/rates-bonds/u.s.-1-year-bond-yield)|
+| 汇率   | [美元/人民币(离岸)](https://cn.investing.com/currencies/usd-cny),[在岸](https://finance.sina.com.cn/money/forex/hq/USDCNY.shtml)|  [欧元/人民币](https://cn.investing.com/currencies/eur-cnh) | [欧元/美元](https://cn.investing.com/currencies/eur-usd) | 
+| 美元   | [黄金/美元](https://cn.investing.com/currencies/xau-usd) |[美元指数](https://cn.investing.com/indices/usdollar) | [美元指数（新浪）](https://finance.sina.com.cn/money/forex/hq/DINIW.shtml) |
+| 商品   | [原油](https://www.dailyfxasia.com/crude-oil) | [天然气](https://www.dailyfxasia.com/natural-gas) |[铜](https://www.dailyfxasia.com/copper-price)| 
+| 美联储 | [资产负债表](https://zh.tradingeconomics.com/united-states/central-bank-balance-sheet)| [美国M2](https://zh.tradingeconomics.com/united-states/money-supply-m2)|[美利率](https://zh.tradingeconomics.com/united-states/interest-rate)  |
+| 央行    |[资产负债表](https://zh.tradingeconomics.com/china/central-bank-balance-sheet) |[中国M2](https://zh.tradingeconomics.com/china/money-supply-m2) |[外汇储备](https://zh.tradingeconomics.com/china/foreign-exchange-reserves) |
+|        |[中国MLF1年期](https://zh.tradingeconomics.com/china/1-year-mlf-rate)|[银行拆借利率](https://zh.tradingeconomics.com/china/interbank-rate) |   .  |
+
+
+
 
 ## 经济指标
 
@@ -55,12 +60,24 @@ description: 把自己金融理财中的知识都汇集到这里
 - [综合数据库 - CSMAR](https://cn.gtadata.com/)：CSMAR数据库（China Stock Market & Accounting Research Database)是深圳希施玛数据科技，很全，收费的。科研都用这个。
 - [中国各种经济指标:tradingeconomics.com](https://zh.tradingeconomics.com/china/indicators)，以及[宏观经济指标解释](https://zhuanlan.zhihu.com/p/107296111)
 - [中国各类市场的指标:.investing.com](https://cn.investing.com/)
+- [世界银行公开数据](https://data.worldbank.org.cn/)：世行的数据。
+
+# 研报
+- [萝卜研报](https://robo.datayes.com/v2/selection)：
 - stock.us研报：[金工研报](https://stock.us/cn/report/quant)、[策略研报](https://stock.us/cn/report/strategy)、[债券研报](https://stock.us/cn/report/bond)、[宏观研报](https://stock.us/cn/report/macro)
 - [慧博投研](http://www.hibor.com.cn/)：各类研报
-- [世界银行公开数据](https://data.worldbank.org.cn/)：世行的数据。
+
+
+# 论坛
+- [淘股吧](https://www.taoguba.com.cn/bbs/)
+- [经管之家-量化交易](https://bbs.pinggu.org/forum-2166-1.html)
+- [发明者量化](https://www.fmz.com/bbs)
+- [知乎-量化交易](https://www.zhihu.com/topic/19815465/hot)
+
 
 # 财经自媒体
 
+- [徐高老师的主页](http://www.chinacef.cn/index.php/experts/zjmain/experts_id/30)
 - [傅帅的投研圈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwMzM1MDYyMw==&action=getalbum&album_id=2524008843035787264&scene=173&from_msgid=2247485862&from_itemidx=1&count=3&nolastread=1#wechat_redirect)\|[杰出财经](https://www.youtube.com/@F_Investing):国内的关注美股一个投研经理的分享
 - [LT视界](https://www.youtube.com/c/lifetimeuscn):比较关注政治和经济的个人外媒
 - [股乾爹 KuKanTieh](https://www.youtube.com/channel/UCDDneQi63kJAdr3i5VCPzHg):台湾胖哥，周更，分享最新美联储动向。
@@ -95,6 +112,11 @@ description: 把自己金融理财中的知识都汇集到这里
 [DavidHsu](https://www.youtube.com/@davidhsu5769),
 [股市咖啡屋](https://www.youtube.com/@StockCafe/videos),
 [RighWayOptions](https://www.youtube.com/@RightWayOptions)
+
+# 其他
+- [QMT文档](http://docs.thinktrader.net/vip/QMT/)
+- [MT5文档](https://www.mql5.com/zh/docs)
+
 
 # 更新和备注
 
