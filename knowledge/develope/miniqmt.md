@@ -59,7 +59,8 @@ xtquant是一个python的包，通过这个这个python包，就可以调用mini
 
 
 ```
-from xtquant.xttrader import XtQuantTrader, XtQuantTraderCallback
+from xtquant.xttrader import XtQuantTrader
+from xtquant.xttrader import XtQuantTraderCallback
 from xtquant.xttype import StockAccount
 acc = StockAccount('800068', 'STOCK')
 callback = MyXtQuantTraderCallback()
@@ -77,7 +78,8 @@ connect_result = xt_trader.connect()
 例如：
 
 ```shell
-C:\software\python3.6.8\Scripts\pip install pyYAML --target C:\software\guojinqmt\bin.x64\Lib\site-packages
+C:\software\python3.6.8\Scripts\pip install pyYAML 
+--target C:\software\guojinqmt\bin.x64\Lib\site-packages
 ```
 
 
