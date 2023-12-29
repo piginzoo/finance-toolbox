@@ -61,6 +61,8 @@ description: 把自己金融理财中的知识都汇集到这里
 - [中国各种经济指标:tradingeconomics.com](https://zh.tradingeconomics.com/china/indicators)，以及[宏观经济指标解释](https://zhuanlan.zhihu.com/p/107296111)
 - [中国各类市场的指标:.investing.com](https://cn.investing.com/)
 - [世界银行公开数据](https://data.worldbank.org.cn/)：世行的数据。
+- [macroview](https://www.macroview.club/)：一个小而密的宏观数据统计网站
+- [财经M平方](https://sc.macromicro.me/macro/cn)：台湾同胞做的一个非常专业的宏观数据统计网站，会员大约1500RMB。
 
 # 研报
 - [萝卜研报](https://robo.datayes.com/v2/selection)：
