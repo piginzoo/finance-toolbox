@@ -17,6 +17,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [恐惧贪婪指数 - 韭圈儿](https://funddb.cn/tool/fear)：韭菜全自己做的一个指标。
 - [指数估值](https://funddb.cn/site/index)，（当前市盈率-5年市盈最小）/（5年市盈最大-5年市盈最小），是一个0%-100%的数，当前值用的是指数标的的中位值，80%+就高估了，20%-就是低估了。[参](https://www.bilibili.com/video/BV1se4y1U7o6)
 - [上市公司财报查询 - 巨潮](http://www.cninfo.com.cn/new/commonUrl/pageOfSearch?url=disclosure/list/search&lastPage=index)
+- [新加坡富时A50ETF期货](https://cn.investing.com/indices/china-a50-chart): 17:00到凌晨4:45还交易，早晨9:00开盘，比中国早半小时，很有参考价值。
 
 ## 金融指标
 
