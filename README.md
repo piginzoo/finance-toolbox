@@ -101,6 +101,7 @@ description: 把自己金融理财中的知识都汇集到这里
 - [云聪金融交易分析](https://www.youtube.com/@yuncongtrade)：云聪的技术分析有一套，学到了很多
 - [贝乐斯 Think Analyze Invest](https://www.youtube.com/@thinkanalyzeinvest)：一位很好剖析金融现象的大佬，可惜不更新了。
 - [美股期权](https://www.youtube.com/@user-nc7zt4hq1u)：讲期权、美式期权的最好的up主，不过深入的话，要交费了。
+- [淘沙博士](https://space.bilibili.com/289706107)：听单口相声，顺便了解A股
 - A股日评：
 [发牌手杰克](https://space.bilibili.com/2142101977/),
 [刀哥](https://space.bilibili.com/66559789),
